@@ -1,0 +1,675 @@
+raw_skill,esco_preferred_label,esco_uri,confidence_score
+business intelligence,business intelligence,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,100.0
+customer service,customer service,http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc,100.0
+health and safety regulations,health and safety regulations,http://data.europa.eu/esco/skill/f2f463e5-2382-49cb-8199-e7e043d868df,100.0
+employment law,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,100.0
+project management,project management,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388,100.0
+company policies,company policies,http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5,100.0
+conflict management,conflict management,http://data.europa.eu/esco/skill/afd49651-9119-4327-91fc-844a6dda1254,100.0
+mergers and acquisitions,mergers and acquisitions,http://data.europa.eu/esco/skill/075c68d7-efe4-4466-be4a-9acc726504df,100.0
+communication,communication,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,100.0
+learning management system,learning management systems,http://data.europa.eu/esco/skill/6c80d53c-d8c9-41fe-998f-091fca208834,98.11
+employment laws,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,96.55
+communications,communication,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,96.3
+organizational policies,organisational policies,http://data.europa.eu/esco/skill/3a5231a0-8c30-48ee-b671-08e2debd4441,95.65
+database documentation,write database documentation,http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c,95.0
+change management,apply change management,http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca,95.0
+hr project management,project management,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388,95.0
+business acumen,apply business acumen,http://data.europa.eu/esco/skill/4ddf5204-95f5-4be2-ad35-571e2f493ae5,95.0
+safety and health,promote health and safety,http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50,95.0
+project management skills,project management,http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388,95.0
+standard operating procedures,adhere to Standard Operating Procedures,http://data.europa.eu/esco/skill/6d7e3b0c-3995-4953-816d-cf3c5e9ffe34,95.0
+employment,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,95.0
+strategic hr planning,strategic planning,http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2,95.0
+performance feedback,provide performance feedback,http://data.europa.eu/esco/skill/ace994b7-0c7c-44b2-8087-3aa0bfd2a93a,95.0
+state employment law,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,95.0
+hr database,database,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576,95.0
+state regulations,state aid regulations,http://data.europa.eu/esco/skill/4600a787-39b0-4bf1-aa69-e586262342f0,95.0
+microsoft office,use microsoft office,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535,95.0
+local employment law,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,95.0
+human resources,manage human resources,http://data.europa.eu/esco/skill/279a4b1d-21df-4d78-9f4d-324c73fd7536,95.0
+human resources processes,human resources department processes,http://data.europa.eu/esco/skill/c6e308b4-8799-4461-a9bd-560bdecb0dbb,95.0
+job descriptions,write job descriptions,http://data.europa.eu/esco/skill/b3d9442d-1fb8-46cd-a947-154a42221f28,95.0
+development planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+selection,provide customer guidance on product selection,http://data.europa.eu/esco/skill/2b69525c-731c-4813-99a7-673fa5679d32,90.0
+salary planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+discipline,practice circus disciplines,http://data.europa.eu/esco/skill/1b509156-3e4d-4eb2-98a7-d1fd1188e2c2,90.0
+safety training,provide on-board safety training,http://data.europa.eu/esco/skill/0b04874c-7fa7-4646-9549-495bc8889910,90.0
+disputes,handle financial disputes,http://data.europa.eu/esco/skill/f70b5f39-b8b6-407b-8c08-64fd65db79e9,90.0
+mediation,develop bioremediation techniques,http://data.europa.eu/esco/skill/23cb29ec-5738-4966-8453-09952ed8c1fc,90.0
+merit planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+dayforce,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+incentive compensation planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+safety,human factors regarding safety,http://data.europa.eu/esco/skill/02137a68-6860-45e8-8e4d-38db467bb8b6,90.0
+retention,develop employee retention programs,http://data.europa.eu/esco/skill/f77b73f0-8c65-4389-a3ae-3a57a73ad148,90.0
+relocation,design procedures for the relocation of specific goods,http://data.europa.eu/esco/skill/e653515d-58cc-4fe8-aea7-c85e2a87b350,90.0
+regulatory compliance,ensure regulatory compliance in pipeline infrastructures,http://data.europa.eu/esco/skill/200a8387-d67c-43e4-9cdc-44ab592c299e,90.0
+e-verify,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+learning opportunities,take advantage of learning opportunities in veterinary science,http://data.europa.eu/esco/skill/04e762ae-18a9-457f-9b2e-280cdddae1f0,90.0
+recognition,optical character recognition software,http://data.europa.eu/esco/skill/12c82224-6394-4c3c-9831-2a8198ed1274,90.0
+dei work,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+investigation skills,ski,http://data.europa.eu/esco/skill/a9ae583b-176c-4774-afcf-3f541400a1fd,90.0
+promotions,set sales promotions,http://data.europa.eu/esco/skill/ba62c716-f9d3-49c8-a7cd-d3d8b7c8067e,90.0
+investigations,lead police investigations,http://data.europa.eu/esco/skill/00298d97-3dc3-4086-a902-bce0a2fba831,90.0
+leave,cure tobacco leaves,http://data.europa.eu/esco/skill/00eada7f-0b83-4f0c-af81-d7f92d838000,90.0
+compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,90.0
+leavers,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+labor laws,labour law,http://data.europa.eu/esco/skill/b3f22ab4-b553-439d-80a2-5b8ae6d11e0d,90.0
+staffing,STAF,http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb,90.0
+compliance with employment laws,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,90.0
+staff development and training,STAF,http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb,90.0
+confidentiality,maintain healthcare user data confidentiality,http://data.europa.eu/esco/skill/51ece34f-c24e-4183-9bf4-9b6f28748aec,90.0
+kronos,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+legal requirements,ensure compliance with legal requirements,http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9,90.0
+social media,social media marketing techniques,http://data.europa.eu/esco/skill/509909a2-4a8f-4ead-8ad0-968df63b77cc,90.0
+simple ira plan,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+job analysis,carry out job analysis,http://data.europa.eu/esco/skill/0fbaceff-df05-4ef7-b735-188dc183b56b,90.0
+customer service oriented mindset,customer service,http://data.europa.eu/esco/skill/15a33d76-4640-438d-ae64-fdc0c1d3eebc,90.0
+data analysis,perform online data analysis,http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2,90.0
+data entry,maintain data entry requirements,http://data.europa.eu/esco/skill/88564d2d-2dc9-4789-864a-f9cb73f389ec,90.0
+data protection guidelines,data protection,http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5,90.0
+employee benefits,calculate employee benefits,http://data.europa.eu/esco/skill/a4e50b95-8962-4408-81f9-f5de71461276,90.0
+od,create model,http://data.europa.eu/esco/skill/02e22093-3436-46a8-8dc5-b041bc4800cc,90.0
+oracle,Oracle Warehouse Builder,http://data.europa.eu/esco/skill/23900e3d-06fa-424c-a5dc-c0ea42edde1e,90.0
+negotiations,moderate in negotiations,http://data.europa.eu/esco/skill/59a8086b-59b3-4e88-9341-21d7fb693b89,90.0
+federal employment law,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,90.0
+federal employment laws,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,90.0
+freelance staff management,STAF,http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb,90.0
+payroll processing,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,90.0
+greenhouse,coordinate greenhouse environment,http://data.europa.eu/esco/skill/118796d8-28a3-4865-bcd0-d037f4abcc0f,90.0
+guidelines,integrate headquarter's guidelines into local operations,http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919,90.0
+payroll,manage payroll reports,http://data.europa.eu/esco/skill/3ee090a1-9d1c-44ed-bd93-f6b7c9b68a97,90.0
+hris skills,ski,http://data.europa.eu/esco/skill/a9ae583b-176c-4774-afcf-3f541400a1fd,90.0
+paperless onboarding,LESS,http://data.europa.eu/esco/skill/26fa7a33-a426-4cd5-9792-33bf668612e1,90.0
+health plans,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+outlook,design the physical outlook of games,http://data.europa.eu/esco/skill/cd86f45f-3823-492f-a7cb-9ed63b28db01,90.0
+hiring,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+orientation,develop performance orientation in public administration,http://data.europa.eu/esco/skill/305dc408-68a6-4f63-9ee6-d0b26c8abad0,90.0
+occupational health and safety,occupational health,http://data.europa.eu/esco/skill/d5e39a53-4f54-4d5f-9df3-b49664c9559d,90.0
+hris,Christianity,http://data.europa.eu/esco/skill/0b0c4b57-9034-490f-9071-5f761ec93d38,90.0
+hr forms processing,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,90.0
+hr operational plan,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+excel,demand excellence from performers,http://data.europa.eu/esco/skill/45af158b-b189-43a2-9b3e-4e69c9b8d799,90.0
+event planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+employee database,database,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576,90.0
+engagement,develop visitor engagement strategies,http://data.europa.eu/esco/skill/3f24d74c-a8b6-425e-b197-85757cf657da,90.0
+professional development plans,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+professional development,conduct continuing professional development workshops,http://data.europa.eu/esco/skill/32a9f2e2-929c-4e1a-afbd-185452ab279c,90.0
+productivity,calculate the productivity of the production of footwear and leather goods,http://data.europa.eu/esco/skill/58db4bf3-b283-4498-8024-336773c4f879,90.0
+employee health,assist employee health programmes,http://data.europa.eu/esco/skill/d0f48427-7987-4f86-b24d-709837a37fd2,90.0
+problem-solving,problem-solving with digital tools,http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91,90.0
+problem solving skills,ski,http://data.europa.eu/esco/skill/a9ae583b-176c-4774-afcf-3f541400a1fd,90.0
+problem solving,apply problem solving in social service,http://data.europa.eu/esco/skill/30d49832-84bd-4d97-9441-aef97a76a8d0,90.0
+presentation skills,ski,http://data.europa.eu/esco/skill/a9ae583b-176c-4774-afcf-3f541400a1fd,90.0
+ppl,apply credit risk policy,http://data.europa.eu/esco/skill/009db49b-fcf5-4409-b4a5-232d059f3597,90.0
+powerpoint skills,ski,http://data.europa.eu/esco/skill/a9ae583b-176c-4774-afcf-3f541400a1fd,90.0
+compensation market studies,dies,http://data.europa.eu/esco/skill/86ed2a45-eae9-4ab7-b0e6-d7508d33df4f,90.0
+policy implementation,government policy implementation,http://data.europa.eu/esco/skill/2be699a7-416a-4f32-967c-4edc65027b71,90.0
+policy development,foreign affairs policy development,http://data.europa.eu/esco/skill/0a917ad8-5cbd-442b-9b84-e9f6e4c13f17,90.0
+policies,influence public policies,http://data.europa.eu/esco/skill/008fa98b-dba6-4abf-909e-04299728e3eb,90.0
+plansource,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+human resource plans,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+morale,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+employee retirement plan,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+industry trends,keep up-to-date to design industry trends,http://data.europa.eu/esco/skill/ac802765-4098-4466-ac1e-4791f192c667,90.0
+employee benefit plan,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+workforce plan,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+clerical duties,perform clerical duties,http://data.europa.eu/esco/skill/ab986bc4-df92-4351-9ac1-aa75af943cf7,90.0
+workforce planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+401(k) retirement plan,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+cfra,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+welfare plans,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+word,keywords in digital content,http://data.europa.eu/esco/skill/06f33d6a-f7a7-4a2b-baa5-8c3c53bd1a9c,90.0
+ceridian,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+training,provide training on quality management supervision,http://data.europa.eu/esco/skill/09e7cd13-ea36-4694-afe5-f34373759392,90.0
+talent management,talent management strategies,http://data.europa.eu/esco/skill/f206e732-110c-47ce-a53f-f00c9d97c90d,90.0
+workday,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+training plans,develop outreach training plans,http://data.europa.eu/esco/skill/6433cb12-4a41-4660-8d73-8b33b3c9515c,90.0
+401k plans,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+benefits,inform clients of healthy lifestyle benefits,http://data.europa.eu/esco/skill/45692043-db59-4e26-a965-8f2f6189a52b,90.0
+time management,simplify communication in maritime management,http://data.europa.eu/esco/skill/52c01fa8-ac34-4f81-97a8-55dcdc8645d1,90.0
+canadian employment law,employment law,http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0,90.0
+benefits processing,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,90.0
+accident investigation,carry out railway accident investigations,http://data.europa.eu/esco/skill/09b962d9-4159-4410-b51e-1429a7d5ab51,90.0
+bilingual skills,ski,http://data.europa.eu/esco/skill/a9ae583b-176c-4774-afcf-3f541400a1fd,90.0
+teams,manage sales teams,http://data.europa.eu/esco/skill/0bfb44c7-c412-49ed-aab4-e33d0dd3b265,90.0
+bilingual english/spanish,Spanish,http://data.europa.eu/esco/skill/14ee9f76-3524-43d5-8a1a-5ba8283f8bd7,90.0
+coaching,assess your competences for artistic coaching,http://data.europa.eu/esco/skill/1a2da6f0-3d19-4305-8a07-dc7237947dee,90.0
+audits,conduct engineering site audits,http://data.europa.eu/esco/skill/09473fea-69ea-40dc-9ff4-bbaaff10840e,90.0
+communication and diplomacy,communication,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,90.0
+training sessions,participate in training sessions,http://data.europa.eu/esco/skill/7935deb6-0bed-4e38-985e-1f83b8e16940,90.0
+annual bonus planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+verbal and written communication,communication,http://data.europa.eu/esco/skill/15d76317-c71a-4fa2-aadc-2ecc34e627b7,90.0
+unemployment,analyse unemployment rates,http://data.europa.eu/esco/skill/0f9f8352-0488-4a1e-9171-2c5466c17f41,90.0
+ukg pro,R,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,90.0
+compensation,legal compensation for victims of crime,http://data.europa.eu/esco/skill/81111f18-b0a1-40c8-9934-ad5ed44d5427,90.0
+workplace safety,inform on workplace safety standards,http://data.europa.eu/esco/skill/41437077-2522-49bf-bcb2-083a23d52958,90.0
+company policies and procedures,company policies,http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5,90.0
+succession planning,plan,http://data.europa.eu/esco/skill/e49f4158-9d4c-425d-bf32-dfe89b19840a,90.0
+attendance,keep records of attendance,http://data.europa.eu/esco/skill/a8fe6eae-cfc1-4580-ad12-f325e8c2b21b,90.0
+bilingual (english/spanish),Spanish,http://data.europa.eu/esco/skill/14ee9f76-3524-43d5-8a1a-5ba8283f8bd7,90.0
+3-4 years supervising,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,90.0
+ats,launch lifeboats,http://data.europa.eu/esco/skill/0b832182-5fc8-49f8-8fb8-8ddc225f5580,90.0
+confidential information,information confidentiality,http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db,89.41
+legal responsibilities,delegate responsibilities,http://data.europa.eu/esco/skill/b00e948c-19be-4951-8cff-60f88f1046e9,89.36
+hr legal requirements,ensure compliance with legal requirements,http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9,87.8
+hr information system,design information system,http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e,87.69
+manager development,manage development of promotional material,http://data.europa.eu/esco/skill/81e812e6-cf9e-4166-9b3c-b0b8492fe354,87.57
+hr management system,treasury management system,http://data.europa.eu/esco/skill/0edaab25-1b72-4531-950d-d8b9a9f4a1c8,87.3
+organizational change management,anger management,http://data.europa.eu/esco/skill/9177b89b-1efa-4fdc-abac-fa720241a9cb,87.1
+position control system,control systems,http://data.europa.eu/esco/skill/4ff549c3-daa5-4def-9916-301c7bdf13b8,86.9
+accommodations,deal with arrivals in accommodation,http://data.europa.eu/esco/skill/25c0b413-f474-42fa-be01-20289d2634c4,86.67
+job interviews,prepare for job interview,http://data.europa.eu/esco/skill/929e89f9-ac69-4bcb-9eea-37257aa5aff9,86.67
+best practices,system backup best practice,http://data.europa.eu/esco/skill/47ca0da1-cae5-4395-ae6b-fd97b9ff48d3,86.67
+ehs compliance,verify lenses compliance,http://data.europa.eu/esco/skill/86836c4d-5ed7-4dea-83d1-64d3927f3547,86.67
+hr data management,SAS Data Management,http://data.europa.eu/esco/skill/e5a6e1e0-1b07-4432-83ba-77d593b2cb47,86.49
+hr strategies,develop passenger outreach strategies,http://data.europa.eu/esco/skill/8f6cd809-2f5b-4c88-aebe-59fd48571d26,86.4
+hr procedures,carry out invasive cardiovascular procedures,http://data.europa.eu/esco/skill/fa477985-066a-4d7f-972f-c21d0d1095a6,86.4
+hr compliance,test dental appliances for compliance,http://data.europa.eu/esco/skill/7ea25aad-b02d-4491-b748-07b7f075d11b,86.4
+compensation management,operations management,http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6,86.36
+hr processes,manage tender processes,http://data.europa.eu/esco/skill/4b2c4de9-43d7-4905-9d58-bc2e7d84b2e1,86.09
+terminations,show determination,http://data.europa.eu/esco/skill/19a64e91-bfe3-4c48-9225-3bb1229b12f0,86.09
+microsoft office suite,use microsoft office,http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535,85.95
+talent development,Agile development,http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221,85.71
+process management,Process-based management,http://data.europa.eu/esco/skill/d5a59ca8-2e91-472e-8571-d12ce4478679,85.71
+hr policies,create cultural venue outreach policies,http://data.europa.eu/esco/skill/1c66359a-5d68-4526-86ab-4a2c554aab57,85.71
+pay policies,company policies,http://data.europa.eu/esco/skill/f75b740c-b36c-495e-bc67-efe347bbc6b5,85.71
+ats system,ATM systems,http://data.europa.eu/esco/skill/8203b07a-8097-4383-aff6-603b7df7f0f4,85.71
+workforce-related data,normalise data,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,85.5
+workforce/talent strategy,integrate marketing strategies with the global strategy,http://data.europa.eu/esco/skill/aa7eac5f-dc9d-401a-b197-c9c455d78c95,85.5
+organizational design,supervise work on design planning,http://data.europa.eu/esco/skill/03227978-f839-4cc8-88a6-0a3c44d2c776,85.5
+web-based hris,design web-based courses,http://data.europa.eu/esco/skill/3d957fb2-b8f4-4b4c-b955-23299c761ad5,85.5
+workplace relations policies,promote health and safety policies in health services,http://data.europa.eu/esco/skill/14d88fae-ead0-4d19-8519-04b154b46987,85.5
+legal compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+workplace investigations,carry out railway accident investigations,http://data.europa.eu/esco/skill/09b962d9-4159-4410-b51e-1429a7d5ab51,85.5
+location risk assessments,manage documentation of prior learning assessments,http://data.europa.eu/esco/skill/0238dd62-d407-4a87-ae0c-e08cd7b4ea8d,85.5
+local employment regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+local laws,distribute local information materials,http://data.europa.eu/esco/skill/08cdec3b-0d81-4575-b405-168e3178a768,85.5
+organizational charts,loading charts for transportation of goods,http://data.europa.eu/esco/skill/db8b59b2-5e51-4944-bd2e-2c5f4b1ebabd,85.5
+welcome to hyatt onboarding,handle customer requests related to cargo,http://data.europa.eu/esco/skill/00a4e92d-e410-42b8-ba2d-d7b3febf49e0,85.5
+web-based enrollments,standards for web-based e-learning,http://data.europa.eu/esco/skill/dc298fac-7ab4-4feb-9b43-33d947d7703e,85.5
+local regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+organization and time management,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+workforce-related metrics,evaluate information services using metrics,http://data.europa.eu/esco/skill/82312096-4df8-49ce-9cdd-a6e08af56b45,85.5
+organizational development,maintain personal development in psychotherapy,http://data.europa.eu/esco/skill/27ce49c9-cec8-451d-ac6f-818394aef827,85.5
+workers compensation/safety,liaise with the transported goods' workers,http://data.europa.eu/esco/skill/c07b8df3-12b4-46ce-8657-4836c6dc93ad,85.5
+legal and regulatory requirements,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+viewpoint vista erp system,transportation software related to an ERP system,http://data.europa.eu/esco/skill/09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba,85.5
+workplace violence prevention,plan inspections for prevention of sanitation violations,http://data.europa.eu/esco/skill/37c325b6-1818-4d38-998c-cea4a7380094,85.5
+union/labor relations,maintain relations with local representatives,http://data.europa.eu/esco/skill/1ad823ab-5eb5-4377-a24a-d3deca1f7bfd,85.5
+payroll administration,develop performance orientation in public administration,http://data.europa.eu/esco/skill/305dc408-68a6-4f63-9ee6-d0b26c8abad0,85.5
+vacation policy,apply credit risk policy,http://data.europa.eu/esco/skill/009db49b-fcf5-4409-b4a5-232d059f3597,85.5
+vacation time accruals,calculate optimal time for insemination,http://data.europa.eu/esco/skill/06ddc929-2f34-46e0-92ef-784fd1c48783,85.5
+paycor payroll system,apply system organisational policies,http://data.europa.eu/esco/skill/07e47d58-dd0e-4302-9e68-70a188e89065,85.5
+leave management,enterprise risk management,http://data.europa.eu/esco/skill/00920055-eb50-4cb8-a23d-3deedbf3753e,85.5
+verification of employment,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+osha reporting,perform contract reporting and evaluation,http://data.europa.eu/esco/skill/1368c06f-202d-4776-8153-93aed512cc64,85.5
+ltd compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+wage and hour,sport and exercise medicine,http://data.europa.eu/esco/skill/00506f28-e884-4496-800c-3477c67eb355,85.5
+osha compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+wage and salary administration,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+leave of absence,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+leave of absence cases,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+leave of absences,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+organizational-wide rewards and recognition program,sport and exercise medicine,http://data.europa.eu/esco/skill/00506f28-e884-4496-800c-3477c67eb355,85.5
+wage and salary structure,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+leave policies,influence public policies,http://data.europa.eu/esco/skill/008fa98b-dba6-4abf-909e-04299728e3eb,85.5
+management development,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+workers compensation claims,handle jewellery and watches insurance claims,http://data.europa.eu/esco/skill/29b9e589-301a-4c5e-95c6-cf85c7b49072,85.5
+workers' compensation,legal compensation for victims of crime,http://data.europa.eu/esco/skill/81111f18-b0a1-40c8-9934-ad5ed44d5427,85.5
+microsft office products,manufacture wearing apparel products,http://data.europa.eu/esco/skill/00e895f4-b9d3-4a1a-8c36-baf10fbfb982,85.5
+ms office suite,set up office equipment,http://data.europa.eu/esco/skill/04cf164c-d07d-49cf-a1b3-84bdbd79b5cb,85.5
+ms office,set up office equipment,http://data.europa.eu/esco/skill/04cf164c-d07d-49cf-a1b3-84bdbd79b5cb,85.5
+microsft office suite,supervise medical office support workers,http://data.europa.eu/esco/skill/056f3e1e-ba27-4498-9fd1-c22ae04dbf3a,85.5
+payroll functions,functions of vessel deck equipment,http://data.europa.eu/esco/skill/1a1a04b7-1d4c-414d-a791-7499ddb90a7f,85.5
+microsof outlook,design the physical outlook of games,http://data.europa.eu/esco/skill/cd86f45f-3823-492f-a7cb-9ed63b28db01,85.5
+microsot office products,manufacture wearing apparel products,http://data.europa.eu/esco/skill/00e895f4-b9d3-4a1a-8c36-baf10fbfb982,85.5
+microsof… office suite,supervise medical office support workers,http://data.europa.eu/esco/skill/056f3e1e-ba27-4498-9fd1-c22ae04dbf3a,85.5
+worker's comp claims,handle jewellery and watches insurance claims,http://data.europa.eu/esco/skill/29b9e589-301a-4c5e-95c6-cf85c7b49072,85.5
+microsoft word,use word processing software,http://data.europa.eu/esco/skill/81633a44-f1db-4a01-a940-804c6905e330,85.5
+microsof word,use word processing software,http://data.europa.eu/esco/skill/81633a44-f1db-4a01-a940-804c6905e330,85.5
+microsoft suite,use creative suite software,http://data.europa.eu/esco/skill/1bc718b6-ed90-4a9d-9fa7-8cec928a4581,85.5
+workers compensation,supervise medical office support workers,http://data.europa.eu/esco/skill/056f3e1e-ba27-4498-9fd1-c22ae04dbf3a,85.5
+microsoft program,use shorthand computer program,http://data.europa.eu/esco/skill/8deb6cb7-15e3-4fd7-a9eb-644c23de95fa,85.5
+microsoft office programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+microsoft office applications,Microsoft Access,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e,85.5
+microsoft 365,Microsoft Visual C++,http://data.europa.eu/esco/skill/8369ede5-4200-4a44-be2e-bc60ef959259,85.5
+merit process,manage process of flexographic print,http://data.europa.eu/esco/skill/06390194-dc45-4d6f-a385-36a58d281ac4,85.5
+new hire onboarding,use new technologies in food manufacturing,http://data.europa.eu/esco/skill/12d2c08a-3b23-4b15-8aae-15e675f60182,85.5
+mandatory compliance training,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+new hire orientation,use new technologies in food manufacturing,http://data.europa.eu/esco/skill/12d2c08a-3b23-4b15-8aae-15e675f60182,85.5
+open enrollment,operate open source software,http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6,85.5
+one to three years hr experience,adopt ways to foster biodiversity and animal welfare,http://data.europa.eu/esco/skill/0171653e-c8e9-4c24-bb86-a4b6fe038f25,85.5
+onboarding process,manage process of flexographic print,http://data.europa.eu/esco/skill/06390194-dc45-4d6f-a385-36a58d281ac4,85.5
+onboarding experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+market salary data,manage ICT data classification,http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d,85.5
+onboarding efforts,employ assessment techniques to anticipate translation efforts,http://data.europa.eu/esco/skill/b413060d-fc7e-4121-ba13-5098848afd29,85.5
+office policies,influence public policies,http://data.europa.eu/esco/skill/008fa98b-dba6-4abf-909e-04299728e3eb,85.5
+office management,enterprise risk management,http://data.europa.eu/esco/skill/00920055-eb50-4cb8-a23d-3deedbf3753e,85.5
+matrix management,enterprise risk management,http://data.europa.eu/esco/skill/00920055-eb50-4cb8-a23d-3deedbf3753e,85.5
+office 365,set up office equipment,http://data.europa.eu/esco/skill/04cf164c-d07d-49cf-a1b3-84bdbd79b5cb,85.5
+work comp,perform street interventions in social work,http://data.europa.eu/esco/skill/004017c9-0337-4f5a-8077-798de9ef12e3,85.5
+worker’s compensation,legal compensation for victims of crime,http://data.europa.eu/esco/skill/81111f18-b0a1-40c8-9934-ad5ed44d5427,85.5
+workday experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+new supervisor onboarding,use new technologies in food manufacturing,http://data.europa.eu/esco/skill/12d2c08a-3b23-4b15-8aae-15e675f60182,85.5
+new parent leave,develop new food products,http://data.europa.eu/esco/skill/090ae6b3-12ab-4c72-b98a-17b790cf416e,85.5
+workday transactions,carry out financial transactions,http://data.europa.eu/esco/skill/4e756773-ae14-4981-838b-9fe27e81c0af,85.5
+new hires,develop new food products,http://data.europa.eu/esco/skill/090ae6b3-12ab-4c72-b98a-17b790cf416e,85.5
+payroll and benefits,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+stay interviews,conduct contact tracing interviews,http://data.europa.eu/esco/skill/16c2b3fb-3a41-4b0e-bb35-06e659917b02,85.5
+payroll processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+relationship management skills,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+sap changes,determine historic climate changes,http://data.europa.eu/esco/skill/1c4fa8a3-7f7e-4c63-a36c-89e4321774d6,85.5
+salary histories,research family histories,http://data.europa.eu/esco/skill/ab0bc977-8b71-48f7-bfcc-a8f92ec03e34,85.5
+talent management system,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+salary analysis,perform online data analysis,http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2,85.5
+salary administration,develop performance orientation in public administration,http://data.europa.eu/esco/skill/305dc408-68a6-4f63-9ee6-d0b26c8abad0,85.5
+talent management systems,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+safety functions,human factors regarding safety,http://data.europa.eu/esco/skill/02137a68-6860-45e8-8e4d-38db467bb8b6,85.5
+safety compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+team development,critique the dive with the dive team,http://data.europa.eu/esco/skill/060850d5-3dab-476a-beea-4a01408c1bad,85.5
+rewards and recognition,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+retention strategies,apply psychological intervention strategies,http://data.europa.eu/esco/skill/110833ee-c4f1-4856-9b7f-7e49ffda537f,85.5
+reference checks,perform pre-assembly quality checks,http://data.europa.eu/esco/skill/0c0a8629-97b7-412f-ad91-be97d80205af,85.5
+selection processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+recruitment strategies,apply psychological intervention strategies,http://data.europa.eu/esco/skill/110833ee-c4f1-4856-9b7f-7e49ffda537f,85.5
+recruitment processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+recruitment process,manage process of flexographic print,http://data.europa.eu/esco/skill/06390194-dc45-4d6f-a385-36a58d281ac4,85.5
+recruitment practices,follow hygienic practices in fishery operations,http://data.europa.eu/esco/skill/031bfd8d-af80-4606-b4bb-6de4d5da6249,85.5
+recruitment experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+recruitment efforts,employ assessment techniques to anticipate translation efforts,http://data.europa.eu/esco/skill/b413060d-fc7e-4121-ba13-5098848afd29,85.5
+recruitment and selection,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+recruiting strategies,apply psychological intervention strategies,http://data.europa.eu/esco/skill/110833ee-c4f1-4856-9b7f-7e49ffda537f,85.5
+recruiting new employees,supervise employees in food production plants,http://data.europa.eu/esco/skill/05cd9341-0d92-4bcc-983c-bf47132ac3f8,85.5
+recruiting life cycle,life sciences,http://data.europa.eu/esco/skill/055192dc-f16c-4855-835d-19cac6ff20aa,85.5
+termination process,manage process of flexographic print,http://data.europa.eu/esco/skill/06390194-dc45-4d6f-a385-36a58d281ac4,85.5
+talent engagement,develop visitor engagement strategies,http://data.europa.eu/esco/skill/3f24d74c-a8b6-425e-b197-85757cf657da,85.5
+sexual harassment,support young victims of sexual assault,http://data.europa.eu/esco/skill/497ac2d8-6a9c-45d1-8149-e7aa2d9e2cff,85.5
+union workers,supervise medical office support workers,http://data.europa.eu/esco/skill/056f3e1e-ba27-4498-9fd1-c22ae04dbf3a,85.5
+sick leave policy,foreign affairs policy development,http://data.europa.eu/esco/skill/0a917ad8-5cbd-442b-9b84-e9f6e4c13f17,85.5
+state laws,laws on the transportation of dangerous goods,http://data.europa.eu/esco/skill/13945aaa-3a43-4846-9380-ff076319b1a4,85.5
+state employment regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+std compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+strategic capability,integrate strategic foundation in daily performance,http://data.europa.eu/esco/skill/089bab26-a854-40fb-8c04-5be4f693315a,85.5
+strategic recruiting,integrate strategic foundation in daily performance,http://data.europa.eu/esco/skill/089bab26-a854-40fb-8c04-5be4f693315a,85.5
+stress management activities,use of special equipment for daily activities,http://data.europa.eu/esco/skill/00c51318-4ea9-4d37-9cd8-74680583d203,85.5
+success factors,human factors regarding safety,http://data.europa.eu/esco/skill/02137a68-6860-45e8-8e4d-38db467bb8b6,85.5
+sphr certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+smart sheet,keep sheet records,http://data.europa.eu/esco/skill/03aa85d2-9a67-455f-b901-595e685afdd2,85.5
+site tiered meetings,conduct engineering site audits,http://data.europa.eu/esco/skill/09473fea-69ea-40dc-9ff4-bbaaff10840e,85.5
+suny student conduct institute,conduct energy audit,http://data.europa.eu/esco/skill/0ad6d5e8-593f-4191-843c-439b23a468ca,85.5
+shrp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+sexual misconduct complaints,report on customers' complaints related to toilet facilities,http://data.europa.eu/esco/skill/4f7d1bfa-f2d8-41a1-a8a1-6d0c058051d0,85.5
+shrmp-scp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+shrmp-cp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+shrmp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+system maintenance,schedule maintenance of airport electrical systems,http://data.europa.eu/esco/skill/037c8da7-6a0d-42b8-b979-c4abe7c92d48,85.5
+talent acquisition,study acquisition of language,http://data.europa.eu/esco/skill/253f889e-a10d-442a-849d-614969793776,85.5
+shrm-scp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+talent acquisition strategy,animal acquisition,http://data.europa.eu/esco/skill/09c23d60-a248-4f3a-b1d1-e9c041b97729,85.5
+shrm-cp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+shrm certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+talent assessment,use clinical assessment techniques,http://data.europa.eu/esco/skill/0f551181-e1af-47e2-b2d8-ff9f4e011ecd,85.5
+shpr certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+random drug testing program,program management,http://data.europa.eu/esco/skill/06d09f70-6ca8-4078-be72-4c2c2a11ee61,85.5
+three to five years hr experience,adopt ways to foster biodiversity and animal welfare,http://data.europa.eu/esco/skill/0171653e-c8e9-4c24-bb86-a4b6fe038f25,85.5
+three years payroll experience,use experience map,http://data.europa.eu/esco/skill/0737ad0a-75ac-4696-988b-565820577ac0,85.5
+unemployment claims,handle jewellery and watches insurance claims,http://data.europa.eu/esco/skill/29b9e589-301a-4c5e-95c6-cf85c7b49072,85.5
+phone interviews,conduct contact tracing interviews,http://data.europa.eu/esco/skill/16c2b3fb-3a41-4b0e-bb35-06e659917b02,85.5
+training programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+personnel records,keep records of bridge investigation findings,http://data.europa.eu/esco/skill/02e0b3e9-c9e0-4063-983b-b5a7697e0f78,85.5
+personnel files,advise on personnel management,http://data.europa.eu/esco/skill/1212ac42-2564-4fce-80e1-6ce4ea4d9bf5,85.5
+performance review process,understand the architecture of a live performance,http://data.europa.eu/esco/skill/03ca6934-62ac-42e8-aca0-9e7c10bb1684,85.5
+transfer forms,handle bulk transfer of raw material,http://data.europa.eu/esco/skill/05fe02a3-5d4c-4bf0-97ed-f57ae00e8aa7,85.5
+performance review,select music for performance,http://data.europa.eu/esco/skill/032a4ab8-1034-4541-8037-b2cdcc7fd19a,85.5
+performance management processes,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+performance management process,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+performance management,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+performance evaluations,understand the architecture of a live performance,http://data.europa.eu/esco/skill/03ca6934-62ac-42e8-aca0-9e7c10bb1684,85.5
+unemployment hearings,provide testimony in court hearings,http://data.europa.eu/esco/skill/478da040-fb0a-4fa8-9112-285ff5c4aefa,85.5
+project leadership,oversee construction project,http://data.europa.eu/esco/skill/1de548e0-9535-4d2e-9d20-d4474c1ea813,85.5
+performance evaluation,understand the architecture of a live performance,http://data.europa.eu/esco/skill/03ca6934-62ac-42e8-aca0-9e7c10bb1684,85.5
+performance appraisal system,understand the architecture of a live performance,http://data.europa.eu/esco/skill/03ca6934-62ac-42e8-aca0-9e7c10bb1684,85.5
+performance appraisal programs,understand the architecture of a live performance,http://data.europa.eu/esco/skill/03ca6934-62ac-42e8-aca0-9e7c10bb1684,85.5
+performance and talent management,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+people solutions,create solutions to problems,http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041,85.5
+people programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+people processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+people operations,supervise housekeeping operations,http://data.europa.eu/esco/skill/00f12ec1-b416-4e3c-8ed7-c4f875c6b681,85.5
+payroll systems,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+union relations,maintain relations with local representatives,http://data.europa.eu/esco/skill/1ad823ab-5eb5-4377-a24a-d3deca1f7bfd,85.5
+payroll software,property management software,http://data.europa.eu/esco/skill/07ebc888-0f3f-46e7-99d2-a7c7ebd7ffe3,85.5
+phr certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+pivot tables,schedule gaming tables,http://data.europa.eu/esco/skill/1e6230dc-c749-4ff1-943c-5bac017f37de,85.5
+placement processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+pmp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+progressive discipline,coach performers in your fight discipline,http://data.europa.eu/esco/skill/2b5b31cc-21bf-479b-9e23-4230091e9eb0,85.5
+professional development programs,identify the dietetic professional quality of care,http://data.europa.eu/esco/skill/06b61b85-5838-4b6a-9ee2-abc6568e1b38,85.5
+title ix,create content title,http://data.europa.eu/esco/skill/df996a98-202f-4a9b-b088-38c8db03ef1b,85.5
+title ix certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+"productivity, recognition, and morale",draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+productivity improvement,analyse relation between supply chain improvement and profit,http://data.europa.eu/esco/skill/473a8b64-a05c-4d49-962d-b9d9219950bc,85.5
+total compensation,legal compensation for victims of crime,http://data.europa.eu/esco/skill/81111f18-b0a1-40c8-9934-ad5ed44d5427,85.5
+total rewards,total quality control,http://data.europa.eu/esco/skill/8af372fa-7b85-4bab-ab20-3f2eb980c400,85.5
+total rewards practices,follow hygienic practices in fishery operations,http://data.europa.eu/esco/skill/031bfd8d-af80-4606-b4bb-6de4d5da6249,85.5
+training and certification,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+prevailing wage workers,supervise medical office support workers,http://data.europa.eu/esco/skill/056f3e1e-ba27-4498-9fd1-c22ae04dbf3a,85.5
+training and development,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+pre-employment screening,perform screening for infectious diseases,http://data.europa.eu/esco/skill/78bac337-ed76-45b6-bd7f-621841c997c4,85.5
+ppl compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+training initiatives,provide training on quality management supervision,http://data.europa.eu/esco/skill/09e7cd13-ea36-4694-afe5-f34373759392,85.5
+training needs assessment,identify information needs of young people,http://data.europa.eu/esco/skill/075c411b-c5cd-4238-be12-d6b284a4130c,85.5
+post-offer requirements,undertake procedures to meet helicopter flight requirements,http://data.europa.eu/esco/skill/0a244ad8-4aa0-4ae5-9f7d-f11931028687,85.5
+positive associate relations training,conduct training on monitoring and evaluation frameworks,http://data.europa.eu/esco/skill/0c8e6a83-8350-47b9-9619-ae8c796086b0,85.5
+position descriptions,position vehicles for maintenance and repair,http://data.europa.eu/esco/skill/215762df-b2b4-40fa-a5e6-3004001cb315,85.5
+policy updates,apply credit risk policy,http://data.europa.eu/esco/skill/009db49b-fcf5-4409-b4a5-232d059f3597,85.5
+training of people managers,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+policy formulation,foreign affairs policy development,http://data.europa.eu/esco/skill/0a917ad8-5cbd-442b-9b84-e9f6e4c13f17,85.5
+policies and procedures,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+ultimate software,property management software,http://data.europa.eu/esco/skill/07ebc888-0f3f-46e7-99d2-a7c7ebd7ffe3,85.5
+1 year human resources experience,use experience map,http://data.europa.eu/esco/skill/0737ad0a-75ac-4696-988b-565820577ac0,85.5
+learning and development,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+culture building,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+diversity initiatives,respect the diversity of cultural values and norms,http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf,85.5
+diversity equity inclusion,respect the diversity of cultural values and norms,http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf,85.5
+diversity & inclusion,respect the diversity of cultural values and norms,http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf,85.5
+diverse and inclusive workplace,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+disputes and investigations,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+discrimination laws,laws on the transportation of dangerous goods,http://data.europa.eu/esco/skill/13945aaa-3a43-4846-9380-ff076319b1a4,85.5
+discipline coordination,coach performers in your fight discipline,http://data.europa.eu/esco/skill/2b5b31cc-21bf-479b-9e23-4230091e9eb0,85.5
+disciplinary policy,foreign affairs policy development,http://data.europa.eu/esco/skill/0a917ad8-5cbd-442b-9b84-e9f6e4c13f17,85.5
+disciplinary meetings,participate in editorial meetings,http://data.europa.eu/esco/skill/2d845d94-aeb5-4a3c-bf52-443685940d1d,85.5
+disciplinary matters,give advice on personal matters,http://data.europa.eu/esco/skill/2245cba7-fa4f-47b8-a0cb-3a6b60d703ee,85.5
+disability compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+deib programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+data spreadsheets,manage ICT data classification,http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d,85.5
+data input/integrity,manage ICT data classification,http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d,85.5
+critical thinking,hazard analysis and critical control points,http://data.europa.eu/esco/skill/2d7bf28a-2487-4443-9115-47478080b1a4,85.5
+compensation benchmarking,legal compensation for victims of crime,http://data.europa.eu/esco/skill/81111f18-b0a1-40c8-9934-ad5ed44d5427,85.5
+creative problem solving,apply problem solving in social service,http://data.europa.eu/esco/skill/30d49832-84bd-4d97-9441-aef97a76a8d0,85.5
+contract management,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+continuous process improvement,process customer requests based on the REACh Regulation 1907 2006,http://data.europa.eu/esco/skill/0d6c9508-1cd6-4cea-98d2-d5fe2f5c6a73,85.5
+continuous improvement mindset,analyse relation between supply chain improvement and profit,http://data.europa.eu/esco/skill/473a8b64-a05c-4d49-962d-b9d9219950bc,85.5
+conflict resolution process,process customer requests based on the REACh Regulation 1907 2006,http://data.europa.eu/esco/skill/0d6c9508-1cd6-4cea-98d2-d5fe2f5c6a73,85.5
+conflict resolution,advise on conflict management,http://data.europa.eu/esco/skill/9091c8e5-9357-4c29-bceb-ddb1792c22e8,85.5
+confidential material handling,transfer uncut audiovisual material to computer,http://data.europa.eu/esco/skill/0ebd8359-48bc-4b28-adb1-450774e5f683,85.5
+confidential information handling,information structure,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,85.5
+compliance reporting,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+compliance involving state and federal regulations,sport and exercise medicine,http://data.europa.eu/esco/skill/00506f28-e884-4496-800c-3477c67eb355,85.5
+competitive base and incentive pay programs,sport and exercise medicine,http://data.europa.eu/esco/skill/00506f28-e884-4496-800c-3477c67eb355,85.5
+compensation program,legal compensation for victims of crime,http://data.europa.eu/esco/skill/81111f18-b0a1-40c8-9934-ad5ed44d5427,85.5
+compensation processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+compensation principles,teach principles of architectural design,http://data.europa.eu/esco/skill/3dfea5b8-5a6f-412d-8c77-d5e7f4fbf907,85.5
+diversity programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+document retention,questioned document examination,http://data.europa.eu/esco/skill/47e2bb45-6f0b-4122-b57c-a5224c212463,85.5
+dol guidelines,integrate headquarter's guidelines into local operations,http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919,85.5
+dpm regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+employee performance management,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+employee onboarding,assist employee health programmes,http://data.europa.eu/esco/skill/d0f48427-7987-4f86-b24d-709837a37fd2,85.5
+employee offboarding,assist employee health programmes,http://data.europa.eu/esco/skill/d0f48427-7987-4f86-b24d-709837a37fd2,85.5
+employee leaves of absence,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+employee leaves,ferment stacks of tobacco leaves,http://data.europa.eu/esco/skill/0b281f3a-7faa-456e-a837-b08544d013d6,85.5
+employee issues,identify emerging issues in humanitarian area,http://data.europa.eu/esco/skill/0c671e20-7a3b-442a-977a-3a085baaf338,85.5
+employee investigations,carry out railway accident investigations,http://data.europa.eu/esco/skill/09b962d9-4159-4410-b51e-1429a7d5ab51,85.5
+employee handbook,calculate employee benefits,http://data.europa.eu/esco/skill/a4e50b95-8962-4408-81f9-f5de71461276,85.5
+employee files/records,assist employee health programmes,http://data.europa.eu/esco/skill/d0f48427-7987-4f86-b24d-709837a37fd2,85.5
+employee exit interviews,carry out interviews to select artistic team members,http://data.europa.eu/esco/skill/ee5a80cd-dca0-421d-a855-5f763a934184,85.5
+employee events,assist in the organisation of school events,http://data.europa.eu/esco/skill/09f159aa-2745-4ab0-a050-96722a2269b9,85.5
+employee enrichment,environmental enrichment for animals,http://data.europa.eu/esco/skill/661f929f-3874-4841-903a-e9d3d3f7f5e2,85.5
+employee engagement,develop visitor engagement strategies,http://data.europa.eu/esco/skill/3f24d74c-a8b6-425e-b197-85757cf657da,85.5
+employee development programs,maintain personal development in psychotherapy,http://data.europa.eu/esco/skill/27ce49c9-cec8-451d-ac6f-818394aef827,85.5
+employee development,systems development life-cycle,http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575,85.5
+learning & development,manage documentation of prior learning assessments,http://data.europa.eu/esco/skill/0238dd62-d407-4a87-ae0c-e08cd7b4ea8d,85.5
+employee changes,determine historic climate changes,http://data.europa.eu/esco/skill/1c4fa8a3-7f7e-4c63-a36c-89e4321774d6,85.5
+employee benefits support,supervise medical office support workers,http://data.europa.eu/esco/skill/056f3e1e-ba27-4498-9fd1-c22ae04dbf3a,85.5
+employee benefit programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+employee benefit administration,develop performance orientation in public administration,http://data.europa.eu/esco/skill/305dc408-68a6-4f63-9ee6-d0b26c8abad0,85.5
+employee attendance,assist employee health programmes,http://data.europa.eu/esco/skill/d0f48427-7987-4f86-b24d-709837a37fd2,85.5
+eiab compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+eeoc guidelines,integrate headquarter's guidelines into local operations,http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919,85.5
+eeo/aap legislation,ensure compliance with environmental legislation,http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d,85.5
+eeo reporting,perform contract reporting and evaluation,http://data.europa.eu/esco/skill/1368c06f-202d-4776-8153-93aed512cc64,85.5
+eeo guidelines,integrate headquarter's guidelines into local operations,http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919,85.5
+eeo compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+e-verify system,use a water-fed pole system,http://data.europa.eu/esco/skill/07547bd9-fede-40e4-96c4-71a264c9362c,85.5
+drug screenings,perform drug investigations,http://data.europa.eu/esco/skill/2705b6b9-c7e6-4c26-ac40-8051f1b37d16,85.5
+compensation practices,follow hygienic practices in fishery operations,http://data.europa.eu/esco/skill/031bfd8d-af80-4606-b4bb-6de4d5da6249,85.5
+compensation and benefits administration,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+employee performance tools,understand the architecture of a live performance,http://data.europa.eu/esco/skill/03ca6934-62ac-42e8-aca0-9e7c10bb1684,85.5
+ada compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+annual open enrollment process,tend open pans,http://data.europa.eu/esco/skill/0d6924a5-ce6b-4496-94ce-7e18b59ce964,85.5
+annual employee engagement surveys,conduct land surveys,http://data.europa.eu/esco/skill/39e71107-3aa9-41a0-809c-edea477c968f,85.5
+annual employee compliance training,conduct training on monitoring and evaluation frameworks,http://data.europa.eu/esco/skill/0c8e6a83-8350-47b9-9619-ae8c796086b0,85.5
+analytical and problem-solving skills,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+agile methodologies,customise project methodologies,http://data.europa.eu/esco/skill/32db65d3-5ef3-43eb-9bf8-752c9cf0b22e,85.5
+agency personnel budget preparation,prepare casting budget,http://data.europa.eu/esco/skill/2ce23710-6205-4b8d-8fc6-a3006efd4631,85.5
+aflac benefit offerings,provide cost benefit analysis reports,http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a,85.5
+affirmative action,design digital call to action,http://data.europa.eu/esco/skill/5233e3f4-904a-4f68-9327-707f11d93374,85.5
+advanced knowledge of microsoft excel,types of barley,http://data.europa.eu/esco/skill/0132ac4f-ffac-4396-8b56-052fde0c9d73,85.5
+advanced excel,OpenEdge Advanced Business Language,http://data.europa.eu/esco/skill/300d432b-f457-4cd3-9cb1-1858c7d14954,85.5
+adp onboarding forms,psycho-social forms of intervention,http://data.europa.eu/esco/skill/6a78bc7c-4bfd-4fef-b9e2-59ad84ad453a,85.5
+adp certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+administering pay,assist in administering veterinary anaesthetics,http://data.europa.eu/esco/skill/186776ca-1758-454f-a544-2004f21bee9f,85.5
+ada process,manage process of flexographic print,http://data.europa.eu/esco/skill/06390194-dc45-4d6f-a385-36a58d281ac4,85.5
+ada accommodation,explain features in accommodation venue,http://data.europa.eu/esco/skill/012f9ad1-b95b-42f1-b2c7-3793cdbce443,85.5
+compensation and benefits,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+aap/eeo compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+aap compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+7 years hr experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+6-8 years hr experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+5 years hr experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+401k contribution changes,plants contribution to indoor climate and health conditions,http://data.europa.eu/esco/skill/34147067-562c-4e5f-8dec-40972ccf29b6,85.5
+401(k) activities,use of special equipment for daily activities,http://data.europa.eu/esco/skill/00c51318-4ea9-4d37-9cd8-74680583d203,85.5
+4+ years hr management experience,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+4+ years hr experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+4 years hr experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+3-5 years hr experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+3 years international work experience,work with soloists,http://data.europa.eu/esco/skill/004f1e68-9ca2-4f3f-92d9-e7d7ff6b9330,85.5
+2 years full cycle recruiting experience,use experience map,http://data.europa.eu/esco/skill/0737ad0a-75ac-4696-988b-565820577ac0,85.5
+2 years data entry,manage ICT data classification,http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d,85.5
+annual wage analysis,perform failure analysis of production process,http://data.europa.eu/esco/skill/12b5cc46-bf35-464c-ac7d-1bdbc23262f7,85.5
+anti-harassment training,provide training on quality management supervision,http://data.europa.eu/esco/skill/09e7cd13-ea36-4694-afe5-f34373759392,85.5
+applicant tracking system,transportation software related to an ERP system,http://data.europa.eu/esco/skill/09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba,85.5
+applicant tracking systems,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+compensation analysis,perform failure analysis of production process,http://data.europa.eu/esco/skill/12b5cc46-bf35-464c-ac7d-1bdbc23262f7,85.5
+company safety and health programs,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+company policy adherence,inform policy makers on health-related challenges,http://data.europa.eu/esco/skill/0b5aaee4-c948-4853-bf8d-b9cd6c4917ee,85.5
+company organizational charts,promote company,http://data.europa.eu/esco/skill/2cdb2b14-fd79-42d5-a7c1-22c65907f63c,85.5
+cognos reporting,perform contract reporting and evaluation,http://data.europa.eu/esco/skill/1368c06f-202d-4776-8153-93aed512cc64,85.5
+cobra compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+carrier portal,non vessel operating common carrier regulations,http://data.europa.eu/esco/skill/123b9ac9-1f11-49bb-b4a5-74677e2eb86b,85.5
+career path frameworks,conduct training on monitoring and evaluation frameworks,http://data.europa.eu/esco/skill/0c8e6a83-8350-47b9-9619-ae8c796086b0,85.5
+career development,systems development life-cycle,http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575,85.5
+candidate selection,provide customer guidance on product selection,http://data.europa.eu/esco/skill/2b69525c-731c-4813-99a7-673fa5679d32,85.5
+bereavement policy,foreign affairs policy development,http://data.europa.eu/esco/skill/0a917ad8-5cbd-442b-9b84-e9f6e4c13f17,85.5
+benefits selection,provide customer guidance on product selection,http://data.europa.eu/esco/skill/2b69525c-731c-4813-99a7-673fa5679d32,85.5
+benefits programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+benefits management,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+benefits and entitlements,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+benefits administration,develop performance orientation in public administration,http://data.europa.eu/esco/skill/305dc408-68a6-4f63-9ee6-d0b26c8abad0,85.5
+benefit programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+benefit package administration,design package,http://data.europa.eu/esco/skill/0b16ebec-1fd8-41c8-a1b9-bbe91a1cc1b8,85.5
+benefit invoices,manage habitats to benefit game,http://data.europa.eu/esco/skill/214c892e-e236-4e5f-9824-47316528cb42,85.5
+benefit enrollments,manage habitats to benefit game,http://data.europa.eu/esco/skill/214c892e-e236-4e5f-9824-47316528cb42,85.5
+benefit administration,develop performance orientation in public administration,http://data.europa.eu/esco/skill/305dc408-68a6-4f63-9ee6-d0b26c8abad0,85.5
+basic budget management,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+background screening,conduct cancer screening tests,http://data.europa.eu/esco/skill/1bd03b9b-835e-4719-ac20-d2d547840061,85.5
+background checks,perform pre-assembly quality checks,http://data.europa.eu/esco/skill/0c0a8629-97b7-412f-ad91-be97d80205af,85.5
+background check management,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+background check,check information on prescriptions,http://data.europa.eu/esco/skill/030de41b-bb8b-4e4b-859c-9afd4c17605b,85.5
+audit processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+attorney license renewals,acquire license for selling tobacco products,http://data.europa.eu/esco/skill/1667e510-709d-4093-96bd-8264050cd978,85.5
+associate relations,maintain relations with local representatives,http://data.europa.eu/esco/skill/1ad823ab-5eb5-4377-a24a-d3deca1f7bfd,85.5
+employee performance programs,understand the architecture of a live performance,http://data.europa.eu/esco/skill/03ca6934-62ac-42e8-aca0-9e7c10bb1684,85.5
+employee concerns,counsel patient on family concerns,http://data.europa.eu/esco/skill/7b7a4d5c-f0d6-4e76-8eee-4c052efea07d,85.5
+hr reporting and analytics,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+health insurance enrollment,follow procedures to control substances hazardous to health,http://data.europa.eu/esco/skill/02e235f4-a30a-412a-a06e-1c471ad28678,85.5
+hr metrics,forecast account metrics,http://data.europa.eu/esco/skill/59fe85c4-8202-46ac-b6a5-e28ea25d1848,85.5
+human resources policy guidance,environmental policy,http://data.europa.eu/esco/skill/081d7679-5070-4777-bece-a28c49f15636,85.5
+hr departmental discipline training,conduct training on monitoring and evaluation frameworks,http://data.europa.eu/esco/skill/0c8e6a83-8350-47b9-9619-ae8c796086b0,85.5
+hr best practices,apply anti-oppressive practices,http://data.europa.eu/esco/skill/000709ed-2be5-4193-b056-45a97698d828,85.5
+hr analytics,marketing analytics,http://data.europa.eu/esco/skill/11c56452-fcec-4b00-9695-cca4728e5048,85.5
+hr administrative tasks,peform small vessel administrative duties,http://data.europa.eu/esco/skill/0194a8eb-c262-411a-ad3f-f3d587630562,85.5
+human resources professional certification,identify support mechanisms to develop your professional practice,http://data.europa.eu/esco/skill/0b071b01-4b40-4936-9d6d-d8c5609481b4,85.5
+hiring and interviewing,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+hipaa compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+healthcare industry standards,maintain personal hygiene standards when cleaning,http://data.europa.eu/esco/skill/0162b701-6bb4-400a-b557-7996053d7daf,85.5
+health and wellness benefits,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+hr principles,apply diplomatic principles,http://data.europa.eu/esco/skill/0023e7a5-43da-4b68-bee3-726ef21f986d,85.5
+i-9 compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+i-9 forms,types of concrete forms,http://data.europa.eu/esco/skill/19fad65e-26e4-432a-af72-b5a0371e0957,85.5
+health and welfare benefits,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+i-9 verification,use treatment verification systems,http://data.europa.eu/esco/skill/dfaf0c99-3887-4a49-be53-c480075075f1,85.5
+icims applicant tracking system,transportation software related to an ERP system,http://data.europa.eu/esco/skill/09f4c52b-ac72-4f0e-a8ae-78bb1d7bffba,85.5
+ics benefits programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+industrial relations,keep up with digital transformation of industrial processes,http://data.europa.eu/esco/skill/0458f6a0-cb54-4ff5-a543-b2c5354e17c0,85.5
+health and safety initiatives,draft scientific or academic papers and technical documentation,http://data.europa.eu/esco/skill/00b9a3aa-7070-4bb5-8020-f228a97cf42f,85.5
+harassment training,provide training on quality management supervision,http://data.europa.eu/esco/skill/09e7cd13-ea36-4694-afe5-f34373759392,85.5
+hris system checks,use a water-fed pole system,http://data.europa.eu/esco/skill/07547bd9-fede-40e4-96c4-71a264c9362c,85.5
+hr practices,apply anti-oppressive practices,http://data.europa.eu/esco/skill/000709ed-2be5-4193-b056-45a97698d828,85.5
+hr programs,develop policies for nutritional programs,http://data.europa.eu/esco/skill/04e52ec7-5107-455b-a943-8004015d5b26,85.5
+government reporting regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+hr-related reports,prepare reports on sanitation,http://data.europa.eu/esco/skill/1a90e24e-c548-4104-8554-011870b0a891,85.5
+hris software,property management software,http://data.europa.eu/esco/skill/07ebc888-0f3f-46e7-99d2-a7c7ebd7ffe3,85.5
+hris functions,functions of vessel deck equipment,http://data.europa.eu/esco/skill/1a1a04b7-1d4c-414d-a791-7499ddb90a7f,85.5
+hris experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+hris systems,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+hris audits,conduct engineering site audits,http://data.europa.eu/esco/skill/09473fea-69ea-40dc-9ff4-bbaaff10840e,85.5
+hrci certification,compile airport certification manuals,http://data.europa.eu/esco/skill/28c3c8d2-09ab-4a68-98db-883b16a966ec,85.5
+human capital management,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+human capital management system,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+human capital strategy,human dynamics as part of hospitality security,http://data.europa.eu/esco/skill/01a6e6ae-32d5-440a-bdb3-c9ed8a1f57c0,85.5
+human resource information systems,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+human resource professional designation,identify support mechanisms to develop your professional practice,http://data.europa.eu/esco/skill/0b071b01-4b40-4936-9d6d-d8c5609481b4,85.5
+hr projects,research ocean energy projects,http://data.europa.eu/esco/skill/1d4ddf05-510a-424a-85d3-2305558665c5,85.5
+hr technology systems,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+human resource theories,human dynamics as part of hospitality security,http://data.europa.eu/esco/skill/01a6e6ae-32d5-440a-bdb3-c9ed8a1f57c0,85.5
+human resources compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+hr systems,perform a feasibility study for building management systems,http://data.europa.eu/esco/skill/01895f13-1989-4756-80d6-9b9ee19ddb32,85.5
+human resources metrics,human dynamics as part of hospitality security,http://data.europa.eu/esco/skill/01a6e6ae-32d5-440a-bdb3-c9ed8a1f57c0,85.5
+human resources policies,human dynamics as part of hospitality security,http://data.europa.eu/esco/skill/01a6e6ae-32d5-440a-bdb3-c9ed8a1f57c0,85.5
+hr strategy,plan marketing strategy,http://data.europa.eu/esco/skill/08fd2839-670c-4f16-8024-97437f2035ab,85.5
+hr retention program,use shorthand computer program,http://data.europa.eu/esco/skill/8deb6cb7-15e3-4fd7-a9eb-644c23de95fa,85.5
+employee personnel files,personnel planning in emergency response,http://data.europa.eu/esco/skill/4bc32339-2e0c-43bb-b6f1-9cd7c250ddc6,85.5
+hr records,keep records of bridge investigation findings,http://data.europa.eu/esco/skill/02e0b3e9-c9e0-4063-983b-b5a7697e0f78,85.5
+governmental laws,participate in governmental tenders,http://data.europa.eu/esco/skill/0afb2715-a6ee-4ad9-ac8a-fb904dd99b61,85.5
+governmental regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+10+ years hr experience,create prototype of user experience solutions,http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812,85.5
+end of year tax forms,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+labor law posters,general principles of food law,http://data.europa.eu/esco/skill/07469451-ae47-49af-98ea-99f8ef9d283c,85.5
+labor relations,maintain relations with local representatives,http://data.europa.eu/esco/skill/1ad823ab-5eb5-4377-a24a-d3deca1f7bfd,85.5
+latest hr trends,market trends in sporting equipment,http://data.europa.eu/esco/skill/0833f2b7-b513-4d81-a93a-f9dee77d4fe1,85.5
+employment legislation,ensure compliance with environmental legislation,http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d,85.5
+law school recruitment,assist in the organisation of school events,http://data.europa.eu/esco/skill/09f159aa-2745-4ab0-a050-96722a2269b9,85.5
+laws and regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+leadership development,foreign affairs policy development,http://data.europa.eu/esco/skill/0a917ad8-5cbd-442b-9b84-e9f6e4c13f17,85.5
+employer-of-choice environment,assume responsibility for maintaining a safe ship environment,http://data.europa.eu/esco/skill/03134e63-81eb-439a-b6eb-7de49ae01bbd,85.5
+employer branding,tend belt branding machine,http://data.europa.eu/esco/skill/68828bd3-4137-4a1f-9a1c-57060418d56d,85.5
+employee workflow status changes,obtain healthcare user's medical status information,http://data.europa.eu/esco/skill/2a8c1070-b7a6-4e4b-998a-21e885b6fb13,85.5
+leadership training,provide training on quality management supervision,http://data.europa.eu/esco/skill/09e7cd13-ea36-4694-afe5-f34373759392,85.5
+employee well-being,communicate about youth's well-being,http://data.europa.eu/esco/skill/334cd662-0415-44ac-bc8a-e24b320b4284,85.5
+employee training sessions,help clients make decisions during counselling sessions,http://data.europa.eu/esco/skill/089af6fe-a65e-4271-a232-b2d97ba6f43a,85.5
+employee training,provide training on quality management supervision,http://data.europa.eu/esco/skill/09e7cd13-ea36-4694-afe5-f34373759392,85.5
+employee time-off records,keep records of bridge investigation findings,http://data.europa.eu/esco/skill/02e0b3e9-c9e0-4063-983b-b5a7697e0f78,85.5
+employee termination process,process customer requests based on the REACh Regulation 1907 2006,http://data.europa.eu/esco/skill/0d6c9508-1cd6-4cea-98d2-d5fe2f5c6a73,85.5
+employee termination procedures,follow procedures to control substances hazardous to health,http://data.europa.eu/esco/skill/02e235f4-a30a-412a-a06e-1c471ad28678,85.5
+employee termination,apply music therapy termination methods,http://data.europa.eu/esco/skill/52120caa-3b67-4f5f-b46a-5de42777e2de,85.5
+employee satisfaction,monitor casino client satisfaction,http://data.europa.eu/esco/skill/5eb57e46-51c3-4265-a4dd-1f38e7fcf07a,85.5
+employee relations issues,identify emerging issues in humanitarian area,http://data.europa.eu/esco/skill/0c671e20-7a3b-442a-977a-3a085baaf338,85.5
+employee relations,maintain relations with local representatives,http://data.europa.eu/esco/skill/1ad823ab-5eb5-4377-a24a-d3deca1f7bfd,85.5
+employee records,keep records of bridge investigation findings,http://data.europa.eu/esco/skill/02e0b3e9-c9e0-4063-983b-b5a7697e0f78,85.5
+employee recognition,optical character recognition software,http://data.europa.eu/esco/skill/12c82224-6394-4c3c-9831-2a8198ed1274,85.5
+initial training sessions,help clients make decisions during counselling sessions,http://data.europa.eu/esco/skill/089af6fe-a65e-4271-a232-b2d97ba6f43a,85.5
+just-in-time training,provide training on quality management supervision,http://data.europa.eu/esco/skill/09e7cd13-ea36-4694-afe5-f34373759392,85.5
+eoe compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+financial acumen,collect property financial information,http://data.europa.eu/esco/skill/02820870-3b92-480b-8475-8a521563ea3c,85.5
+interactive process,manage process of flexographic print,http://data.europa.eu/esco/skill/06390194-dc45-4d6f-a385-36a58d281ac4,85.5
+full cycle recruitment,translate keywords into full texts,http://data.europa.eu/esco/skill/06e347f2-2504-4ee8-b7f7-8d9542f56207,85.5
+intermediate knowledge excel,"apply knowledge of philosophy, ethics and religion",http://data.europa.eu/esco/skill/0b709c64-a57a-4976-86bd-34d2cf34fa4f,85.5
+intermediate knowledge powerpoint,"apply knowledge of philosophy, ethics and religion",http://data.europa.eu/esco/skill/0b709c64-a57a-4976-86bd-34d2cf34fa4f,85.5
+fmla compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+intermediate knowledge word,"apply knowledge of philosophy, ethics and religion",http://data.europa.eu/esco/skill/0b709c64-a57a-4976-86bd-34d2cf34fa4f,85.5
+flsa compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+investigating allegations of wrongdoing,types of barley,http://data.europa.eu/esco/skill/0132ac4f-ffac-4396-8b56-052fde0c9d73,85.5
+j-1 visa program,use shorthand computer program,http://data.europa.eu/esco/skill/8deb6cb7-15e3-4fd7-a9eb-644c23de95fa,85.5
+firm social events,perform street interventions in social work,http://data.europa.eu/esco/skill/004017c9-0337-4f5a-8077-798de9ef12e3,85.5
+eoir guidelines,integrate headquarter's guidelines into local operations,http://data.europa.eu/esco/skill/1d25213c-ab01-45c5-8bb3-f2fd9702a919,85.5
+hris solution,optimise choice of ICT solution,http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425,85.5
+job description creation,pursue excellence in the creation of food products,http://data.europa.eu/esco/skill/015cd017-b146-4c9d-ab10-5dfca451c30a,85.5
+federal regulations,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+federal laws,laws on the transportation of dangerous goods,http://data.europa.eu/esco/skill/13945aaa-3a43-4846-9380-ff076319b1a4,85.5
+exit interviews,conduct contact tracing interviews,http://data.europa.eu/esco/skill/16c2b3fb-3a41-4b0e-bb35-06e659917b02,85.5
+examination processes,attend to detail in casting processes,http://data.europa.eu/esco/skill/01e5d2e2-d368-4fb9-9be9-9923146482c4,85.5
+erisa compliance,control compliance of railway vehicles regulations,http://data.europa.eu/esco/skill/0007bdc2-dd15-4824-b7d6-416522c46f35,85.5
+job grade,carry out job analysis,http://data.europa.eu/esco/skill/0fbaceff-df05-4ef7-b735-188dc183b56b,85.5
+job level,carry out job analysis,http://data.europa.eu/esco/skill/0fbaceff-df05-4ef7-b735-188dc183b56b,85.5
+job verifications,provide feedback on job performance,http://data.europa.eu/esco/skill/4012e28f-1826-4024-9772-7a4183d63b7f,85.5
+employee job descriptions,write job descriptions,http://data.europa.eu/esco/skill/b3d9442d-1fb8-46cd-a947-154a42221f28,80.0
+paychex,prepare paychecks,http://data.europa.eu/esco/skill/af0f7625-b9fc-4f97-a71d-d7c7648bfc35,78.92
+microsoft excel,Microsoft Access,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e,77.42
+ics vista,STAF,http://data.europa.eu/esco/skill/69f0167e-75d9-46cf-847f-72a592880ebb,77.14
+timekeeping,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,77.14
+association memberships,Sass,http://data.europa.eu/esco/skill/1110c92f-3059-445a-9436-0f4200d365f5,77.14
+zoom,zoo regulations,http://data.europa.eu/esco/skill/27e8f919-3ae1-42fc-b1e0-7d8f9ed972a7,77.14
+teaming,tend stamping press,http://data.europa.eu/esco/skill/224ba28f-2024-42aa-8684-15ce482fa9ca,77.14
+dispute resolution,dies,http://data.europa.eu/esco/skill/86ed2a45-eae9-4ab7-b0e6-d7508d33df4f,77.14
+discrimination,dies,http://data.europa.eu/esco/skill/86ed2a45-eae9-4ab7-b0e6-d7508d33df4f,77.14
+fmla,flavour tobacco leaves,http://data.europa.eu/esco/skill/6f0b7ef6-3561-408c-973c-e5d3d7231ccb,77.14
+off-boarding,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,77.14
+offboarding,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,77.14
+flsa,flavour tobacco leaves,http://data.europa.eu/esco/skill/6f0b7ef6-3561-408c-973c-e5d3d7231ccb,77.14
+employment-related inquiries,dies,http://data.europa.eu/esco/skill/86ed2a45-eae9-4ab7-b0e6-d7508d33df4f,77.14
+supervisory responsibilities,dies,http://data.europa.eu/esco/skill/86ed2a45-eae9-4ab7-b0e6-d7508d33df4f,77.14
+recruiting,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,77.14
+osha,shape candles,http://data.europa.eu/esco/skill/18e644ff-cd44-4818-a379-ef2ccf28713e,77.14
+on-boarding,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,77.14
+onboarding,sing,http://data.europa.eu/esco/skill/e50a68c5-2a5d-4815-8bd1-e4334aed7683,77.14
+ada leave,grade tobacco leaves,http://data.europa.eu/esco/skill/aea2e3d5-428d-474f-b696-4eb8c95f39a7,76.0
+paycom,operate railway communication systems,http://data.europa.eu/esco/skill/b4cea126-86f6-45dd-b4d8-bd9f2291e07f,75.0
+bonuses,operational tactics for emergency responses,http://data.europa.eu/esco/skill/4e5687e3-3d3a-4f5e-b76a-93da0124d453,75.0
+recruiting coordination,intubation,http://data.europa.eu/esco/skill/e585d690-ebfc-4b27-9dbc-7d655ce1176c,74.12
+reasonable accommodations,oxidation,http://data.europa.eu/esco/skill/7b663720-0834-4291-bad3-96b4e48f80a1,74.12
+microsoft powerpoint,sift powder,http://data.europa.eu/esco/skill/efb78e4e-037b-4af4-b009-a5e83c6cfd7e,73.64
+dei initiatives,show initiative,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f,73.33
+microsof excel,Microsoft Access,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e,73.33
+total compensation statements,calculate compensation payments,http://data.europa.eu/esco/skill/99474c7c-7096-4ff9-9e87-03db28727b00,73.33
+wellness initiatives,LESS,http://data.europa.eu/esco/skill/26fa7a33-a426-4cd5-9792-33bf668612e1,73.29
+inclusion initiatives,show initiative,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f,72.22
+recruitment/selection,election law,http://data.europa.eu/esco/skill/1a539b09-1fd9-4a86-9c5d-fde7499a2f9d,72.0
+ltd,reinforce body mould,http://data.europa.eu/esco/skill/0cdca366-d37e-4af6-a4e1-205129f7610c,72.0
+pfl,plan retail space,http://data.europa.eu/esco/skill/03520ff5-9e68-434b-91fa-3ced9c085159,72.0
+projected salary recommendations,Malay,http://data.europa.eu/esco/skill/1f90c205-f869-4dcf-a374-c4fdeded9cbc,72.0
+pdl,plan retail space,http://data.europa.eu/esco/skill/03520ff5-9e68-434b-91fa-3ced9c085159,72.0
+adp,apply credit risk policy,http://data.europa.eu/esco/skill/009db49b-fcf5-4409-b4a5-232d059f3597,72.0
+employee eligibility verifications,Latin,http://data.europa.eu/esco/skill/96e70743-6a84-4fee-b226-fe10cddb266e,72.0
+recruitment,recruit employees,http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b,72.0
+powerpoint,respond to electrical power contingencies,http://data.europa.eu/esco/skill/6542601c-92ee-4a03-abd9-fde0635727a2,72.0
+circa portal,APL,http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e,72.0
+collective agreement negotiations,collect mail,http://data.europa.eu/esco/skill/3fc4af68-4d22-4be0-82d7-fa7267577612,72.0
+atixa,understand written Latvian,http://data.europa.eu/esco/skill/049b5d37-aab3-4b6a-a505-bf254a434b5d,72.0
+merit increases,lasers,http://data.europa.eu/esco/skill/fed2fe77-623b-42f7-9d46-a2e5454f069a,72.0
+payelocity,prayer,http://data.europa.eu/esco/skill/f5b55ae6-41be-4a62-af43-2aaa0fcc4dc4,72.0
+nacua,electrical stimulation in acupuncture,http://data.europa.eu/esco/skill/17b8aac7-6444-4fcc-bb51-a158df61ffbc,72.0
+sharepoint,ensure point of sale material availability,http://data.europa.eu/esco/skill/f62ddf39-1f99-44ce-906c-5a3d650c82cb,72.0
+hse,set up office equipment,http://data.europa.eu/esco/skill/04cf164c-d07d-49cf-a1b3-84bdbd79b5cb,72.0
+std,styles of boxes,http://data.europa.eu/esco/skill/027f47ba-2435-47dc-9fd3-5f05c6a52e93,72.0
+deib initiatives,show initiative,http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f,70.97
+wage hour,massage theory,http://data.europa.eu/esco/skill/8eaba8f3-98f7-40e6-96a9-181f1c121e44,70.0
+401k contributions,nutrition,http://data.europa.eu/esco/skill/13d96098-2ff0-46b8-b326-b7c0e18cc1f1,70.0
+cobra packets,create SCORM packages,http://data.europa.eu/esco/skill/3c134a08-521f-489d-9ff0-d84fcdc963eb,69.23
+equity initiatives,edit negatives,http://data.europa.eu/esco/skill/0fba68dc-6f5d-4974-b3cf-5d3215f7d363,68.75
+cornerstone,biomass conversion,http://data.europa.eu/esco/skill/b115cabc-c030-45b2-ac8e-922d45716183,68.57
+hr due diligence,Urdu,http://data.europa.eu/esco/skill/bc546a09-1103-4184-b757-3508ef5f8490,67.5
+eiab,identify available services,http://data.europa.eu/esco/skill/00090cc1-1f27-439e-a4e0-19a87a501bfc,67.5
+peoplesoft,identify information needs of young people,http://data.europa.eu/esco/skill/075c411b-c5cd-4238-be12-d6b284a4130c,67.5
+quarterly newsletters,Perl,http://data.europa.eu/esco/skill/401eb8d8-6daa-4f8b-90ad-60afc71eb4f8,67.5
+ceridian/dayforce,Persian,http://data.europa.eu/esco/skill/58cabf75-2520-4358-a210-2cbc628f4aa2,64.29
+fmla leave,cure tobacco leaves,http://data.europa.eu/esco/skill/00eada7f-0b83-4f0c-af81-d7f92d838000,63.53
+jd edwards,exercise stewardship,http://data.europa.eu/esco/skill/151174e2-2a27-4c1e-be68-6446278d34b7,63.0
+full-cycle recruitment,procurement lifecycle,http://data.europa.eu/esco/skill/3bc08c26-2f98-4730-bbb6-ec4a8566e3cf,61.86
+deltek vantagepoint,detect finger prints,http://data.europa.eu/esco/skill/23a3d985-7945-465f-bb32-7af25cd065df,61.54
+adp's workforce now,APL,http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e,60.0
+adp workforce now,APL,http://data.europa.eu/esco/skill/58d7a289-dafd-4363-833f-d1dc4140885e,60.0
+ada/feha,hair,http://data.europa.eu/esco/skill/c76d86b3-9860-4bc0-996d-cc724c669bcf,60.0
+vlookups,empathise with outdoor groups,http://data.europa.eu/esco/skill/02c1a369-f1e7-4f8e-8882-d7ded57f9cf4,60.0
+d & i,prepare meat products for use in a dish,http://data.europa.eu/esco/skill/23b355ee-94db-4831-b16d-935adc5de1cd,57.0

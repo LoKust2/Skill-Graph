@@ -1,0 +1,637 @@
+child_uri,child_label,parent_uri,parent_label
+http://data.europa.eu/esco/skill/43f425aa-f45d-4bb4-a200-6f82fa211b66,languages,http://data.europa.eu/esco/skill/e35a5936-091d-4e87-bafe-f264e55bd656,language skills and knowledge
+http://data.europa.eu/esco/skill/e434e71a-f068-44ed-8059-d1af9eb592d7,classical languages,http://data.europa.eu/esco/skill/e35a5936-091d-4e87-bafe-f264e55bd656,language skills and knowledge
+http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/15dfca7a-5dde-4199-bad3-c00600387258,handling and disposing of waste and hazardous materials,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/61d1dab2-6007-4b7c-9380-cd88207fa30f,disposing of non-hazardous waste or debris,http://data.europa.eu/esco/skill/15dfca7a-5dde-4199-bad3-c00600387258,handling and disposing of waste and hazardous materials
+http://data.europa.eu/esco/skill/8bde58aa-9d5b-422b-801c-ff9186dd648e,handling and disposing of hazardous materials,http://data.europa.eu/esco/skill/15dfca7a-5dde-4199-bad3-c00600387258,handling and disposing of waste and hazardous materials
+http://data.europa.eu/esco/skill/f8c676de-c871-424f-9a65-77059d07910a,handling and disposing of waste and hazardous materials,http://data.europa.eu/esco/skill/15dfca7a-5dde-4199-bad3-c00600387258,handling and disposing of waste and hazardous materials
+http://data.europa.eu/esco/skill/1cc5ff0b-afaa-4993-9de7-ab0d77b6cca2,moving and lifting,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/30b280e7-2468-440b-a78f-f1e7f515d60a,"positioning materials, tools or equipment",http://data.europa.eu/esco/skill/1cc5ff0b-afaa-4993-9de7-ab0d77b6cca2,moving and lifting
+http://data.europa.eu/esco/skill/577ce84f-0d21-4f25-8307-99c53f6f8437,moving and lifting,http://data.europa.eu/esco/skill/1cc5ff0b-afaa-4993-9de7-ab0d77b6cca2,moving and lifting
+http://data.europa.eu/esco/skill/682bb7ca-dbe9-4c33-9c7a-1ae56e28516e,"loading and unloading goods and, materials",http://data.europa.eu/esco/skill/1cc5ff0b-afaa-4993-9de7-ab0d77b6cca2,moving and lifting
+http://data.europa.eu/esco/skill/e852a2ed-c32e-4a39-bc4c-65a78ffe6bf2,"moving or lifting materials, equipment, or supplies",http://data.europa.eu/esco/skill/1cc5ff0b-afaa-4993-9de7-ab0d77b6cca2,moving and lifting
+http://data.europa.eu/esco/skill/e963cf1f-dc3c-48b2-a0fa-274f5e7f50f6,storing goods and materials,http://data.europa.eu/esco/skill/1cc5ff0b-afaa-4993-9de7-ab0d77b6cca2,moving and lifting
+http://data.europa.eu/esco/skill/1d9e5893-d6b2-47b1-80ba-5f1cdcbf5e9a,"making moulds, casts, models and patterns",http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/0f8f9438-8529-41b8-bb7a-4d91121e3192,making patterns and templates,http://data.europa.eu/esco/skill/1d9e5893-d6b2-47b1-80ba-5f1cdcbf5e9a,"making moulds, casts, models and patterns"
+http://data.europa.eu/esco/skill/480a0b1b-aae9-4b39-9a4f-1c2b8ddcbc46,making production moulds and casts,http://data.europa.eu/esco/skill/1d9e5893-d6b2-47b1-80ba-5f1cdcbf5e9a,"making moulds, casts, models and patterns"
+http://data.europa.eu/esco/skill/6d535249-ac7c-4e44-8ada-09305c3a3900,"making moulds, casts, models and patterns",http://data.europa.eu/esco/skill/1d9e5893-d6b2-47b1-80ba-5f1cdcbf5e9a,"making moulds, casts, models and patterns"
+http://data.europa.eu/esco/skill/74b7938e-f667-48ff-a26d-faed294ac6c9,making models,http://data.europa.eu/esco/skill/1d9e5893-d6b2-47b1-80ba-5f1cdcbf5e9a,"making moulds, casts, models and patterns"
+http://data.europa.eu/esco/skill/4364e0cd-66ad-4f0c-b96d-0ea6796067cb,tending plants and crops,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/762f3830-baa8-4a7e-a5de-b49037d80885,tending plants and crops,http://data.europa.eu/esco/skill/4364e0cd-66ad-4f0c-b96d-0ea6796067cb,tending plants and crops
+http://data.europa.eu/esco/skill/888f286e-272f-4e54-8a3b-9fa391870618,"planting, pruning and harvesting trees, crops and other plants",http://data.europa.eu/esco/skill/4364e0cd-66ad-4f0c-b96d-0ea6796067cb,tending plants and crops
+http://data.europa.eu/esco/skill/b7c82b1b-cff9-4641-a62f-e4e28395eade,cultivating land and crops,http://data.europa.eu/esco/skill/4364e0cd-66ad-4f0c-b96d-0ea6796067cb,tending plants and crops
+http://data.europa.eu/esco/skill/462f8805-3c0b-43c6-8bef-592b87939763,transforming and blending materials,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/8066edda-60e7-4e41-966b-4be09b049ab3,preparing industrial materials for processing or use,http://data.europa.eu/esco/skill/462f8805-3c0b-43c6-8bef-592b87939763,transforming and blending materials
+http://data.europa.eu/esco/skill/bf4822d3-1f66-499d-afc9-151a9ba33e58,preparing mixtures or solutions,http://data.europa.eu/esco/skill/462f8805-3c0b-43c6-8bef-592b87939763,transforming and blending materials
+http://data.europa.eu/esco/skill/c098d6c1-dfee-4b02-8ce5-c6d80c98e18b,transforming and blending materials,http://data.europa.eu/esco/skill/462f8805-3c0b-43c6-8bef-592b87939763,transforming and blending materials
+http://data.europa.eu/esco/skill/f1612d7a-0338-4b0f-a2a4-86b5168e2596,collecting and preparing specimens or materials for testing,http://data.europa.eu/esco/skill/462f8805-3c0b-43c6-8bef-592b87939763,transforming and blending materials
+http://data.europa.eu/esco/skill/56c3ea4b-7cea-44da-969c-c21b07a55030,washing and maintaining textiles and clothing,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/22d15a65-7262-4a6d-b981-53671b95ad29,washing and maintaining textiles and clothing,http://data.europa.eu/esco/skill/56c3ea4b-7cea-44da-969c-c21b07a55030,washing and maintaining textiles and clothing
+http://data.europa.eu/esco/skill/821ecf8f-3c2a-4b89-a9f1-b2aa7fb0b625,cleaning,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/2bf2c727-ee42-4fc5-a4d7-2cd62b880433,cleaning,http://data.europa.eu/esco/skill/821ecf8f-3c2a-4b89-a9f1-b2aa7fb0b625,cleaning
+http://data.europa.eu/esco/skill/3b86c15f-3f66-4e50-abf5-544f2a942a0b,cleaning outdoor spaces,http://data.europa.eu/esco/skill/821ecf8f-3c2a-4b89-a9f1-b2aa7fb0b625,cleaning
+http://data.europa.eu/esco/skill/7a8c9402-0550-4966-9ff6-0d65b0f6b1fb,"cleaning tools, equipment, workpieces and vehicles",http://data.europa.eu/esco/skill/821ecf8f-3c2a-4b89-a9f1-b2aa7fb0b625,cleaning
+http://data.europa.eu/esco/skill/d69e45d3-1f3f-4e6a-8933-82e949277811,cleaning interior and exterior of buildings,http://data.europa.eu/esco/skill/821ecf8f-3c2a-4b89-a9f1-b2aa7fb0b625,cleaning
+http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/2ad2ee1c-afc9-402f-91ab-c9c0911b209d,fabricating precision instruments or jewellery,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/37f2f637-1f54-4ea1-b677-5ca6cac24993,fabricating medical and prosthetic devices,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/3eacdaa9-fe4a-49ba-a085-c798097cf8d4,fabricating tobacco products,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/528c2f16-139f-4a5b-8880-a6f02ed33f2a,fabricating garments and textile products,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/592525ab-b517-4c55-8c65-17e0f5d99205,assembling electrical and electronic products,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/62023d5b-22ea-442e-ac46-39eb83c986fb,assembling furniture,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/827de17d-3fc1-4ba5-b4e0-850c51e750c8,assembling and fabricating products,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/bd1242ec-6dd5-4c7d-bf79-8de6be3b3815,assembling mechanical products,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/f289347f-a76d-4d03-a648-74b53ed1e636,fabricating food and related products,http://data.europa.eu/esco/skill/b8e142fe-e508-42b1-b037-efebcefac3a7,assembling and fabricating products
+http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,using hand tools,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/424cce4d-71c9-47d9-93d6-4068403139f0,shaping materials to create products,http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,using hand tools
+http://data.europa.eu/esco/skill/51ffd92f-7ff4-4c38-83d4-7350fcfd6968,smoothing surfaces of objects or equipment,http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,using hand tools
+http://data.europa.eu/esco/skill/57216e88-a0d3-4b8c-af6c-b8232b4f48c2,using precision hand tools,http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,using hand tools
+http://data.europa.eu/esco/skill/72fe5d9f-4ec8-4fc4-b1d3-0dd83be0aa1a,cutting materials and drilling holes,http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,using hand tools
+http://data.europa.eu/esco/skill/74052f13-4cae-4600-a4d3-8103004683f3,using hand tools,http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,using hand tools
+http://data.europa.eu/esco/skill/b82b2bad-41dd-40af-8242-e7d59a2ce786,"hammering, nailing and riveting",http://data.europa.eu/esco/skill/d23b21ca-2ef5-4b5e-b37e-a5311dc2e292,using hand tools
+http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/3afcf547-cefc-493a-8abb-aaa8b7088e4f,"hunting, trapping and slaughtering animals",http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/42f18b92-1c20-46ed-bde0-9bc64ff1e475,feeding and grooming animals,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/7194cdea-bca7-4c4a-8d49-3cb54b89d5a0,providing therapy or veterinary treatment for animals,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/77a2918f-5969-4545-a632-d3e6a853b2c5,training animals,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/9d0d6866-cd91-490b-9e3a-d0914ad95a2e,handling animals,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/e52cd6e7-f8dc-4f6f-b988-5554423f53fb,tending and breeding aquatic animals,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/edcfd6ef-1a42-4e0a-97e2-2a2d61cac181,tending and breeding animals,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/f0f8ceea-304e-42e8-80cf-ff1535eb7068,moving and herding animals,http://data.europa.eu/esco/skill/e5419bb1-38c7-458a-b263-b7e73e02bc7e,handling animals
+http://data.europa.eu/esco/skill/f2840c73-9693-4cc0-8dc1-c44942263d5d,sorting and packaging goods and materials,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/35045957-e9e4-44b1-801a-9a49f6efaece,marking materials or objects for identification,http://data.europa.eu/esco/skill/f2840c73-9693-4cc0-8dc1-c44942263d5d,sorting and packaging goods and materials
+http://data.europa.eu/esco/skill/485b2e3b-f883-46d8-901f-ab521d4f8e58,sorting materials or products,http://data.europa.eu/esco/skill/f2840c73-9693-4cc0-8dc1-c44942263d5d,sorting and packaging goods and materials
+http://data.europa.eu/esco/skill/8da6cd59-61e1-43c4-8dfc-bc69d283ccc7,packaging objects,http://data.europa.eu/esco/skill/f2840c73-9693-4cc0-8dc1-c44942263d5d,sorting and packaging goods and materials
+http://data.europa.eu/esco/skill/e5e3b8d7-a96d-41f4-acb6-563b0f7f2994,sorting and packaging goods and materials,http://data.europa.eu/esco/skill/f2840c73-9693-4cc0-8dc1-c44942263d5d,sorting and packaging goods and materials
+http://data.europa.eu/esco/skill/ff565308-8f29-4f1d-a342-9a29bd8b7446,handling and moving,http://data.europa.eu/esco/skill/03e0b95b-67d1-457a-b3f7-06c407cf6bec,handling and moving
+http://data.europa.eu/esco/skill/ca5b2cf4-0f3e-4c47-b496-12d812a7e5d9,handling and moving,http://data.europa.eu/esco/skill/ff565308-8f29-4f1d-a342-9a29bd8b7446,handling and moving
+http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/0101f8a4-4243-4e67-813b-3e2a6274f7e2,monitoring developments in area of expertise,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/e2a5e046-3357-493e-bbdc-8d0ef82005cc,monitoring developments in area of expertise,http://data.europa.eu/esco/skill/0101f8a4-4243-4e67-813b-3e2a6274f7e2,monitoring developments in area of expertise
+http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing",http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/0b3930a2-8a13-4932-8a09-4c72ec8af464,monitoring quality of products,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/0e0a44a8-654c-4e85-986a-fb4386114838,monitoring safety or security,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/15fa3879-ac0e-46e6-ae36-609bae9c19c3,monitoring operational activities,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/1893b4bc-0eb2-41de-96e3-9c8f1f1eac41,inspecting food safety and quality,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/47aa582a-3edb-45b5-9ef4-e87813ea327c,testing vehicles,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/54f7432d-a8b6-4ed4-a50e-9ec882320595,"monitoring, inspecting and testing",http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/5c2d5780-23ed-4372-bb8d-c1846ee404ae,monitoring financial and economic resources and activity,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/c5ff50d7-97d3-401e-90ac-e5ae756a52de,monitoring health conditions of humans and animals,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/d2e8f452-ac19-4eed-b984-8f55d2a5b763,testing and analysing substances,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/d519fadd-85bf-475f-bf14-c53a0290687d,monitoring environmental conditions,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/f7fc7bf8-f41d-44af-81e3-09b88e9779e6,testing electrical and mechanical systems or equipment,http://data.europa.eu/esco/skill/1e95cef2-9c35-4f9f-b6a9-cb458c3e5379,"monitoring, inspecting and testing"
+http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/06fdd94c-292d-49e3-9c78-bbcbc2088232,maintaining operational records,http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/1034004c-0347-4765-8794-b65d2c92b379,documenting and recording information,http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/1bc1cf2a-a7f6-4769-a13b-cc26a2214498,"preparing documentation for contracts, applications, or permits",http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/20136935-e6a1-417b-81df-9b94d4c2c371,reporting incidents and defects,http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/95bf4552-6d5b-41dc-b990-53ace372f705,"documenting technical designs, procedures, problems or activities",http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/b32ef8a5-e3f7-40ef-8b40-913c003e1f4e,"preparing financial documents, records, reports, or budgets",http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/b975836b-d9b9-4724-88da-9a82b856e74b,recording legal information,http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/c1bd0ed6-053c-4703-981e-eaec5e57de18,maintaining or preparing medical documentation,http://data.europa.eu/esco/skill/325a3d29-a235-4182-9128-782c0f4b2dcc,documenting and recording information
+http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/1f2950c0-ef1e-44b4-9a55-125ccd7b78af,analysing and evaluating information and data,http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data
+http://data.europa.eu/esco/skill/3eef7ff2-3ade-41d4-b084-2bd2a3949e1c,assessing land or real estate,http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data
+http://data.europa.eu/esco/skill/7e153e1d-2b12-43ad-89f3-0cf82ebc4a30,performing risk analysis and management,http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data
+http://data.europa.eu/esco/skill/ba1f6201-b206-4459-b178-706db34a851d,analysing scientific and medical data,http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data
+http://data.europa.eu/esco/skill/d94e1143-3a3a-4f6a-a881-df93bf56cf23,analysing financial and economic data,http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data
+http://data.europa.eu/esco/skill/ec528c47-65f4-4187-9dc1-5a8889f84a06,analysing business operations,http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data
+http://data.europa.eu/esco/skill/f2cf57fe-d4cb-4b4a-831d-73171cc73909,"evaluating systems, programmes, equipment and products",http://data.europa.eu/esco/skill/3753e796-121e-46a3-9c27-dee31ce92c80,analysing and evaluating information and data
+http://data.europa.eu/esco/skill/587e1cd6-a376-4c8f-8369-187c128d72a3,processing information,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/29dcc31e-a8d6-4a62-b3c1-2de81e966e39,gathering information from physical or electronic sources,http://data.europa.eu/esco/skill/587e1cd6-a376-4c8f-8369-187c128d72a3,processing information
+http://data.europa.eu/esco/skill/70ac2c90-656a-4fa3-886c-5b9305db2087,processing information,http://data.europa.eu/esco/skill/587e1cd6-a376-4c8f-8369-187c128d72a3,processing information
+http://data.europa.eu/esco/skill/9bdf8a77-8524-43da-bac6-d15d22e1b7ed,entering and transforming information,http://data.europa.eu/esco/skill/587e1cd6-a376-4c8f-8369-187c128d72a3,processing information
+http://data.europa.eu/esco/skill/82c084ea-15e9-4d55-98dc-ede0f767baee,information skills,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/cd9c487e-09ad-4b82-854b-118feb01f2ed,information skills,http://data.europa.eu/esco/skill/82c084ea-15e9-4d55-98dc-ede0f767baee,information skills
+http://data.europa.eu/esco/skill/8a57f720-70b3-41de-877c-7d723977dc88,measuring physical properties,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/23d7bd85-d8d5-4455-b64d-3b0998f2425d,measuring dimensions and related properties,http://data.europa.eu/esco/skill/8a57f720-70b3-41de-877c-7d723977dc88,measuring physical properties
+http://data.europa.eu/esco/skill/347aa7ee-b640-41cc-ae7c-3c5eafda9fda,measuring physical properties,http://data.europa.eu/esco/skill/8a57f720-70b3-41de-877c-7d723977dc88,measuring physical properties
+http://data.europa.eu/esco/skill/5dbb69d2-9e1b-4e0f-b8c0-0bac709729cf,weighing,http://data.europa.eu/esco/skill/8a57f720-70b3-41de-877c-7d723977dc88,measuring physical properties
+http://data.europa.eu/esco/skill/c5b71c57-6f78-4c54-b332-ec75848f1095,"conducting studies, investigations and examinations",http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/316df5b7-31c4-4f4e-ae69-aad1b873b995,interpreting technical documentation and diagrams,http://data.europa.eu/esco/skill/c5b71c57-6f78-4c54-b332-ec75848f1095,"conducting studies, investigations and examinations"
+http://data.europa.eu/esco/skill/7eafec38-621a-4b6e-9298-bfe70ec0b253,conducting academic or market research,http://data.europa.eu/esco/skill/c5b71c57-6f78-4c54-b332-ec75848f1095,"conducting studies, investigations and examinations"
+http://data.europa.eu/esco/skill/8fde007e-ea4c-48c2-84c5-752834acd31d,"conducting studies, investigations and examinations",http://data.europa.eu/esco/skill/c5b71c57-6f78-4c54-b332-ec75848f1095,"conducting studies, investigations and examinations"
+http://data.europa.eu/esco/skill/c4376e35-add7-43a0-8b2e-f5741f0df8fe,carrying out forensic and police investigations,http://data.europa.eu/esco/skill/c5b71c57-6f78-4c54-b332-ec75848f1095,"conducting studies, investigations and examinations"
+http://data.europa.eu/esco/skill/d700aa7a-0ed8-4967-a32c-4cb6075ab3b9,diagnosing health conditions,http://data.europa.eu/esco/skill/c5b71c57-6f78-4c54-b332-ec75848f1095,"conducting studies, investigations and examinations"
+http://data.europa.eu/esco/skill/dddd229b-61e1-480d-80d6-d9d9ee9b5f54,managing information,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/32c017fd-28ab-4051-bf68-74de952c2f77,managing information,http://data.europa.eu/esco/skill/dddd229b-61e1-480d-80d6-d9d9ee9b5f54,managing information
+http://data.europa.eu/esco/skill/e173eaf8-c99b-405a-b0ac-0e02ce3c268d,calculating and estimating,http://data.europa.eu/esco/skill/0a2d70ee-d435-4965-9e96-702b2fb65740,information skills
+http://data.europa.eu/esco/skill/47b0d855-ea3c-45e9-8dcf-0e12e62261c4,calculating and estimating,http://data.europa.eu/esco/skill/e173eaf8-c99b-405a-b0ac-0e02ce3c268d,calculating and estimating
+http://data.europa.eu/esco/skill/b917784a-d7c9-437c-be6e-0de41067fa62,estimating resource needs,http://data.europa.eu/esco/skill/e173eaf8-c99b-405a-b0ac-0e02ce3c268d,calculating and estimating
+http://data.europa.eu/esco/skill/f55fac09-92a2-4a88-9a96-ee9fb5b18519,determining values of goods or services,http://data.europa.eu/esco/skill/e173eaf8-c99b-405a-b0ac-0e02ce3c268d,calculating and estimating
+http://data.europa.eu/esco/skill/f5f15f9c-6334-4728-8dc5-3a20a00dfc37,performing calculations,http://data.europa.eu/esco/skill/e173eaf8-c99b-405a-b0ac-0e02ce3c268d,calculating and estimating
+http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,working with computers,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/28d2ab6c-38a2-476e-85fe-7982fd242943,accessing and analysing digital data,http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,working with computers
+http://data.europa.eu/esco/skill/258fea29-09db-4918-8235-0d7d529cd31c,"browsing, searching and filtering digital data",http://data.europa.eu/esco/skill/28d2ab6c-38a2-476e-85fe-7982fd242943,accessing and analysing digital data
+http://data.europa.eu/esco/skill/4d6a48ae-352e-4823-bc3a-3f3e9e2cae86,accessing and analysing digital data,http://data.europa.eu/esco/skill/28d2ab6c-38a2-476e-85fe-7982fd242943,accessing and analysing digital data
+http://data.europa.eu/esco/skill/6a7fc30d-af16-4cc5-a957-29d174bdb61c,"managing, gathering and storing digital data",http://data.europa.eu/esco/skill/28d2ab6c-38a2-476e-85fe-7982fd242943,accessing and analysing digital data
+http://data.europa.eu/esco/skill/75c1ab73-5b00-48a0-818e-93487ebdd7e1,setting up and protecting computer systems,http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,working with computers
+http://data.europa.eu/esco/skill/0b9968af-72de-470a-98e1-2d19577443fb,resolving computer problems,http://data.europa.eu/esco/skill/75c1ab73-5b00-48a0-818e-93487ebdd7e1,setting up and protecting computer systems
+http://data.europa.eu/esco/skill/185c56ee-098f-46a1-af87-56337085da6f,protecting ict devices,http://data.europa.eu/esco/skill/75c1ab73-5b00-48a0-818e-93487ebdd7e1,setting up and protecting computer systems
+http://data.europa.eu/esco/skill/24aa32e7-5b7c-42fd-b045-11f0c3d9b6e3,setting up and protecting computer systems,http://data.europa.eu/esco/skill/75c1ab73-5b00-48a0-818e-93487ebdd7e1,setting up and protecting computer systems
+http://data.europa.eu/esco/skill/f839b1da-78b6-4466-86f4-a5798821ea20,setting up computer systems,http://data.europa.eu/esco/skill/75c1ab73-5b00-48a0-818e-93487ebdd7e1,setting up and protecting computer systems
+http://data.europa.eu/esco/skill/842ebeb2-d252-4bde-98fe-e0463f7009db,using digital tools to control machinery,http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,working with computers
+http://data.europa.eu/esco/skill/494b8057-daf5-46a0-b33b-416e0115c30a,using digital tools to control machinery,http://data.europa.eu/esco/skill/842ebeb2-d252-4bde-98fe-e0463f7009db,using digital tools to control machinery
+http://data.europa.eu/esco/skill/cacc62f3-2df4-4cc3-9d5d-0d014db56bd9,"using digital tools for collaboration, content creation and problem solving",http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,working with computers
+http://data.europa.eu/esco/skill/446a36a5-2376-439f-b46b-4a214ba0acdf,"using word processing, publishing and presentation software",http://data.europa.eu/esco/skill/cacc62f3-2df4-4cc3-9d5d-0d014db56bd9,"using digital tools for collaboration, content creation and problem solving"
+http://data.europa.eu/esco/skill/98fb499f-9155-412d-a8a0-95ba97126fec,using digital tools for collaboration and productivity,http://data.europa.eu/esco/skill/cacc62f3-2df4-4cc3-9d5d-0d014db56bd9,"using digital tools for collaboration, content creation and problem solving"
+http://data.europa.eu/esco/skill/b1115b14-fa16-4c1e-be6c-91fd49a1808b,using computer aided design and drawing tools,http://data.europa.eu/esco/skill/cacc62f3-2df4-4cc3-9d5d-0d014db56bd9,"using digital tools for collaboration, content creation and problem solving"
+http://data.europa.eu/esco/skill/c53a55a1-8b2b-4d2c-b12d-626742a3833a,using digital tools for processing sound and images,http://data.europa.eu/esco/skill/cacc62f3-2df4-4cc3-9d5d-0d014db56bd9,"using digital tools for collaboration, content creation and problem solving"
+http://data.europa.eu/esco/skill/f774131e-8f2d-43b6-8c20-7fe35fa0f0bd,"using digital tools for collaboration, content creation and problem solving",http://data.europa.eu/esco/skill/cacc62f3-2df4-4cc3-9d5d-0d014db56bd9,"using digital tools for collaboration, content creation and problem solving"
+http://data.europa.eu/esco/skill/d6e4373a-ef2c-4b64-9dc6-4140846f6609,programming computer systems,http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,working with computers
+http://data.europa.eu/esco/skill/a8c3186b-c791-4d57-8f4f-4d12c7a5c6a7,programming computer systems,http://data.europa.eu/esco/skill/d6e4373a-ef2c-4b64-9dc6-4140846f6609,programming computer systems
+http://data.europa.eu/esco/skill/f5328159-dfe9-4f25-b8e7-a03fb0d3a991,working with computers,http://data.europa.eu/esco/skill/243eb885-07c7-4b77-ab9c-827551d83dc4,working with computers
+http://data.europa.eu/esco/skill/39499028-35bf-4d69-9275-fb98902ed88b,working with computers,http://data.europa.eu/esco/skill/f5328159-dfe9-4f25-b8e7-a03fb0d3a991,working with computers
+http://data.europa.eu/esco/skill/2ae39fc8-0f1b-4284-9e73-3f2739471f63,constructing,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures,http://data.europa.eu/esco/skill/2ae39fc8-0f1b-4284-9e73-3f2739471f63,constructing
+http://data.europa.eu/esco/skill/24a39c1b-b8cc-4210-8b74-b388a90e8f59,"joining parts using soldering, welding or brazing techniques",http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/58beed15-8cf0-4bea-a24a-ad595768bba6,building and repairing structures,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/58edb789-d085-4e7d-8b6e-b70913bebfca,installing and assembling building fixtures,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/5d1d2d04-5510-4918-a437-7f57d570483a,installing roofing,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/6d0cad66-82dd-4854-a03a-68232942c68d,installing wooden and metal components,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/8eb65708-6a1c-4a11-8b51-ed9331962142,installing and assembling rigging equipment,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/97ff8a90-ec21-4f13-9b58-22cc9fc47221,installing structural masonry materials,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/d9be4ab0-f7d9-4b27-bd01-6cf1d43d1865,installing concrete components,http://data.europa.eu/esco/skill/18da3b88-1cd5-4ef3-83d6-664e52afdaba,building and repairing structures
+http://data.europa.eu/esco/skill/57a45369-afc1-4f5a-b157-6f18de506bab,constructing,http://data.europa.eu/esco/skill/2ae39fc8-0f1b-4284-9e73-3f2739471f63,constructing
+http://data.europa.eu/esco/skill/59c46f34-bffd-4859-adf4-3839c2a73821,constructing,http://data.europa.eu/esco/skill/57a45369-afc1-4f5a-b157-6f18de506bab,constructing
+http://data.europa.eu/esco/skill/9f6f5c32-2770-4257-bd66-adc29442ff20,installing interior or exterior infrastructure,http://data.europa.eu/esco/skill/2ae39fc8-0f1b-4284-9e73-3f2739471f63,constructing
+http://data.europa.eu/esco/skill/0edd863d-b02d-4714-a1a2-835d6dd23c55,installing insulation materials,http://data.europa.eu/esco/skill/9f6f5c32-2770-4257-bd66-adc29442ff20,installing interior or exterior infrastructure
+http://data.europa.eu/esco/skill/2c7252b7-59b8-40eb-ac7c-17f78a94f7e7,installing interior or exterior infrastructure,http://data.europa.eu/esco/skill/9f6f5c32-2770-4257-bd66-adc29442ff20,installing interior or exterior infrastructure
+http://data.europa.eu/esco/skill/583b1fb5-be8d-41f0-aa81-0b6bef4793c2,installing plumbing or piping equipment or systems,http://data.europa.eu/esco/skill/9f6f5c32-2770-4257-bd66-adc29442ff20,installing interior or exterior infrastructure
+http://data.europa.eu/esco/skill/b85caa4a-f04b-4331-80df-11404fd71225,"installing heating, ventilation and air conditioning equipment",http://data.europa.eu/esco/skill/9f6f5c32-2770-4257-bd66-adc29442ff20,installing interior or exterior infrastructure
+http://data.europa.eu/esco/skill/d5f302db-adff-4bae-b7d4-37293b397193,finishing interior or exterior of structures,http://data.europa.eu/esco/skill/2ae39fc8-0f1b-4284-9e73-3f2739471f63,constructing
+http://data.europa.eu/esco/skill/5ea47148-5289-49f2-80f8-bb1f54b37de0,applying protective or decorative solutions or coatings,http://data.europa.eu/esco/skill/d5f302db-adff-4bae-b7d4-37293b397193,finishing interior or exterior of structures
+http://data.europa.eu/esco/skill/81d95361-e7dd-4f75-a243-d646a7dd6a28,finishing interior or exterior of structures,http://data.europa.eu/esco/skill/d5f302db-adff-4bae-b7d4-37293b397193,finishing interior or exterior of structures
+http://data.europa.eu/esco/skill/8984a92c-416e-498f-abd3-a9dd819e5c03,installing floor and wall coverings,http://data.europa.eu/esco/skill/d5f302db-adff-4bae-b7d4-37293b397193,finishing interior or exterior of structures
+http://data.europa.eu/esco/skill/da230865-9d2a-42d9-a42e-37d89753109e,applying material to fill gaps in surfaces,http://data.europa.eu/esco/skill/d5f302db-adff-4bae-b7d4-37293b397193,finishing interior or exterior of structures
+http://data.europa.eu/esco/skill/e6e784d0-38a2-4f0c-9fe9-d985a3269fd9,appyling textured or masonry coatings,http://data.europa.eu/esco/skill/d5f302db-adff-4bae-b7d4-37293b397193,finishing interior or exterior of structures
+http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/2d02d98c-20c4-4b46-bf44-e5f85a3f03ed,building and developing teams,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/dfae80db-cf29-41e1-a48c-2bee901afff1,building and developing teams,http://data.europa.eu/esco/skill/2d02d98c-20c4-4b46-bf44-e5f85a3f03ed,building and developing teams
+http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organising, planning and scheduling work and activities",http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/0779d482-4154-4fbb-9a22-d9fd89c39d67,"organising, planning and scheduling work and activities",http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organising, planning and scheduling work and activities"
+http://data.europa.eu/esco/skill/190f64e1-b7b6-4c53-b20b-80f9215ef6ca,"directing, supervising and coordinating projects",http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organising, planning and scheduling work and activities"
+http://data.europa.eu/esco/skill/87dff904-fb74-4d59-972e-1c2387579d94,directing operational activities,http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organising, planning and scheduling work and activities"
+http://data.europa.eu/esco/skill/cfd5ab8f-ef8a-4877-8243-ddf17ac74604,planning events and programmes,http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organising, planning and scheduling work and activities"
+http://data.europa.eu/esco/skill/d6c8dacb-b0c0-4544-b0b7-69b24df41ba1,managing transport and logistics activities,http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organising, planning and scheduling work and activities"
+http://data.europa.eu/esco/skill/e6eeb84c-ad99-42e2-b883-e6ce338aef59,planning production processes,http://data.europa.eu/esco/skill/5c26881e-2759-4a38-b136-5e0f6071b524,"organising, planning and scheduling work and activities"
+http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/164510d1-1216-4dc0-b9d1-a7f6af19e469,developing contingency and emergency response plans,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/37272760-957a-4c34-b4f3-780ee285334d,"developing financial, business or marketing plans",http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/6ee936b0-4e0c-4e04-97c7-1f4ee9230d67,developing objectives and strategies,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/7e0b93e0-0de7-4607-b07f-27a6828d3ff0,developing educational programmes,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/8ed41305-4abf-4b54-9f8f-0e043d26feba,developing policies and legislation,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/c23e0a2f-f04b-45bc-b0dd-20571f6b502c,developing operational policies and procedures,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/cbe1b24e-00f3-4b17-94e9-1fcd34a11c3e,identifying opportunities,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/db54693e-bcb0-4dae-8885-a43d510fb71f,developing health programmes,http://data.europa.eu/esco/skill/6f89dcbe-4315-4533-8801-3aadf9190b86,developing objectives and strategies
+http://data.europa.eu/esco/skill/73dba04a-7c18-439f-8757-b5f60532ba74,recruiting and hiring,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/77e41477-4ecf-425b-8163-b18a5a54e593,recruiting and hiring,http://data.europa.eu/esco/skill/73dba04a-7c18-439f-8757-b5f60532ba74,recruiting and hiring
+http://data.europa.eu/esco/skill/7a00c77c-4a1c-4fd6-a83f-004bda65d81a,supervising people,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/aab9f44d-fe0e-46d8-a470-11ce82a64846,supervising a team or group,http://data.europa.eu/esco/skill/7a00c77c-4a1c-4fd6-a83f-004bda65d81a,supervising people
+http://data.europa.eu/esco/skill/bffa732b-12ab-4214-a4b3-498598820b1c,assigning work to others,http://data.europa.eu/esco/skill/7a00c77c-4a1c-4fd6-a83f-004bda65d81a,supervising people
+http://data.europa.eu/esco/skill/c206d301-14b0-4bea-8028-a3749303a512,monitoring and evaluating the performance of individuals,http://data.europa.eu/esco/skill/7a00c77c-4a1c-4fd6-a83f-004bda65d81a,supervising people
+http://data.europa.eu/esco/skill/c57c0294-9940-4626-8954-08055bc242ba,supervising people,http://data.europa.eu/esco/skill/7a00c77c-4a1c-4fd6-a83f-004bda65d81a,supervising people
+http://data.europa.eu/esco/skill/9827c329-3492-4e8d-852c-da0894228ff6,allocating and controlling resources,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/193af349-b20e-4277-94bf-b184e92b8d6a,managing budgets or finances,http://data.europa.eu/esco/skill/9827c329-3492-4e8d-852c-da0894228ff6,allocating and controlling resources
+http://data.europa.eu/esco/skill/2258cde2-a95b-4b2c-b105-59e84b0a364b,managing and administering human resources,http://data.europa.eu/esco/skill/9827c329-3492-4e8d-852c-da0894228ff6,allocating and controlling resources
+http://data.europa.eu/esco/skill/92fc9726-5b5e-439e-a33c-06a8c63fbb9a,allocating and controlling resources,http://data.europa.eu/esco/skill/9827c329-3492-4e8d-852c-da0894228ff6,allocating and controlling resources
+http://data.europa.eu/esco/skill/f73c2c9e-b097-4fcb-95d1-659ea0bd54a3,allocating and controlling physical resources,http://data.europa.eu/esco/skill/9827c329-3492-4e8d-852c-da0894228ff6,allocating and controlling resources
+http://data.europa.eu/esco/skill/bb99a123-88be-42a2-8758-f5a18e06ccc6,making decisions,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/c7f96545-46c4-451a-b284-014f4baed5ed,making decisions,http://data.europa.eu/esco/skill/bb99a123-88be-42a2-8758-f5a18e06ccc6,making decisions
+http://data.europa.eu/esco/skill/c1a13ee0-b00d-4cfa-a22c-20d284e398b0,management skills,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/1d4be2e3-ac64-426f-838d-1e7cb8600927,management skills,http://data.europa.eu/esco/skill/c1a13ee0-b00d-4cfa-a22c-20d284e398b0,management skills
+http://data.europa.eu/esco/skill/ce17a874-b476-491d-a7a7-5f05d32ad542,leading and motivating,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/b7e752ec-7b2e-46e6-ac24-8b1233609c31,leading and motivating,http://data.europa.eu/esco/skill/ce17a874-b476-491d-a7a7-5f05d32ad542,leading and motivating
+http://data.europa.eu/esco/skill/f306bf2a-271d-4059-ba7b-e83849cb8960,performing administrative activities,http://data.europa.eu/esco/skill/869fc2ce-478f-4420-8766-e1f02cec4fb2,management skills
+http://data.europa.eu/esco/skill/906211b3-afed-4a2b-b5e1-33f2885fee85,performing general clerical and administrative tasks,http://data.europa.eu/esco/skill/f306bf2a-271d-4059-ba7b-e83849cb8960,performing administrative activities
+http://data.europa.eu/esco/skill/b309d4f5-56f5-41c6-b712-92d1ed85b965,performing administrative activities,http://data.europa.eu/esco/skill/f306bf2a-271d-4059-ba7b-e83849cb8960,performing administrative activities
+http://data.europa.eu/esco/skill/c20ac175-3aab-4aaa-9b9e-784c2dfb59cd,executing financial transactions,http://data.europa.eu/esco/skill/f306bf2a-271d-4059-ba7b-e83849cb8960,performing administrative activities
+http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/02208098-ee91-4df0-8581-5c1a04d8fe0a,"installing, maintaining and repairing mechanical equipment",http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/03efa398-a1cc-4589-9c10-84bf10f8d42d,"installing, maintaining and repairing mechanical equipment",http://data.europa.eu/esco/skill/02208098-ee91-4df0-8581-5c1a04d8fe0a,"installing, maintaining and repairing mechanical equipment"
+http://data.europa.eu/esco/skill/0b8d15c9-7b4f-4163-b863-fe5b756d3e7f,repairing and installing mechanical equipment,http://data.europa.eu/esco/skill/02208098-ee91-4df0-8581-5c1a04d8fe0a,"installing, maintaining and repairing mechanical equipment"
+http://data.europa.eu/esco/skill/45ce91d6-574f-445e-a3d5-741f89bddb56,maintaining mechanical equipment and tools,http://data.europa.eu/esco/skill/02208098-ee91-4df0-8581-5c1a04d8fe0a,"installing, maintaining and repairing mechanical equipment"
+http://data.europa.eu/esco/skill/a9703c5e-7fef-40d8-8fed-e5b31cc76818,maintaining mechanical machinery,http://data.europa.eu/esco/skill/02208098-ee91-4df0-8581-5c1a04d8fe0a,"installing, maintaining and repairing mechanical equipment"
+http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/06769591-b8cf-46b2-b1d3-6602b1cf440e,operating wood processing and papermaking machinery,http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/151bd6ca-74be-47bb-9dab-9c7387114006,operating metal processing and finishing machinery,http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/3f1f77a5-9c2d-4b71-afb3-0328d8cbb05e,operating machinery for the extraction and processing of raw materials,http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/79f3d574-fcf2-445e-a087-cc774f19b861,operating pumping systems or equipment,http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/8bf9699c-f964-4e4b-ac3d-55aface09cbc,operating energy production or distribution equipment,http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/a96b31dd-d72a-4c89-8947-524f14a16f82,"operating mining, drilling and mineral processing machinery",http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/bdf2aa76-360d-429d-a967-bdb691f241fa,"operating kilns, furnaces and drying equipment",http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/d3b2c894-33fb-47c4-aff0-27935a082bf6,"operating petroleum, chemical or water processing systems or equipment",http://data.europa.eu/esco/skill/2198d7a0-6eca-4795-b877-98a19064e61a,operating machinery for the extraction and processing of raw materials
+http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/18f2a44e-28ef-4ae3-8ea2-347e33bd9a4b,operating machinery for the manufacture of products,http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/39d83364-c86f-4942-96d1-e5df582face9,"operating metal, plastic or rubber forming equipment",http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/418e58f5-c50c-4147-baa0-83aeb43b796a,operating painting or coating machinery,http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/7ec00c15-c9bb-4b74-9b8b-681424e9ea2c,operating packaging machinery,http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/8d80f33a-ab38-429b-a4ed-3b1a6f8f3b4a,operating mixing and separating machinery,http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/a0ad9ea8-9620-4aba-a836-cbdd16e12880,"operating machinery for the manufacture and treatment of textiles, fur and leather products",http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/a7956044-f468-4bc1-a83c-a8821b903a09,"operating cutting, grinding and smoothing machinery",http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/ceca8bbe-cd58-49b4-8ef4-9a34a5ac0f75,operating food processing machinery,http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/dcb9c446-bb08-44de-89b6-851ac2903eaf,operating print and photographic production equipment,http://data.europa.eu/esco/skill/2b8a86c4-d063-44d5-863f-a9659024cefe,operating machinery for the manufacture of products
+http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/0a88a13f-693a-4dde-b44c-22e6f98fabc6,operating communications equipment,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment
+http://data.europa.eu/esco/skill/57e6af87-8a6b-4ecb-88e5-7c80b582ddd7,using precision instrumentation and equipment,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment
+http://data.europa.eu/esco/skill/7ca69606-5ffc-4668-ae53-713c1f1612e6,operating scientific and laboratory equipment,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment
+http://data.europa.eu/esco/skill/872c0ddb-f056-4f51-afac-fc3d6fae0f5b,operating medical equipment,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment
+http://data.europa.eu/esco/skill/8ddcb295-707e-459c-ba6a-66ffb37835c5,operating audio-visual equipment,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment
+http://data.europa.eu/esco/skill/bf4196e4-839c-4f5f-b13b-eeed07ede160,operating precision industrial equipment,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment
+http://data.europa.eu/esco/skill/c8f4aad2-ea23-49a2-9708-a6049c2d28ce,using precision measuring equipment,http://data.europa.eu/esco/skill/4d7fb3eb-554a-4cf1-a576-bf6e153bdba2,using precision instrumentation and equipment
+http://data.europa.eu/esco/skill/663d82aa-4c0d-46bc-90f5-03770f068bb1,driving vehicles,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/8e77453d-3665-4d00-b887-2e9adb29cd15,operating rail vehicles,http://data.europa.eu/esco/skill/663d82aa-4c0d-46bc-90f5-03770f068bb1,driving vehicles
+http://data.europa.eu/esco/skill/c54a0a94-9d45-4697-b7cb-f7eaef839031,driving heavy vehicles,http://data.europa.eu/esco/skill/663d82aa-4c0d-46bc-90f5-03770f068bb1,driving vehicles
+http://data.europa.eu/esco/skill/dbbbe31a-9b8c-4459-a830-84363648f52c,driving light vehicles,http://data.europa.eu/esco/skill/663d82aa-4c0d-46bc-90f5-03770f068bb1,driving vehicles
+http://data.europa.eu/esco/skill/f7c70392-a261-42e9-86a6-fccf3709ac81,driving vehicles,http://data.europa.eu/esco/skill/663d82aa-4c0d-46bc-90f5-03770f068bb1,driving vehicles
+http://data.europa.eu/esco/skill/7b942071-f688-4600-8d9f-ad4c0306abc7,"installing, maintaining and repairing electrical, electronic and precision equipment",http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/a6b0802f-4c20-4123-8a84-d6c8631fedb1,"installing, maintaining and repairing electrical, electronic and precision equipment",http://data.europa.eu/esco/skill/7b942071-f688-4600-8d9f-ad4c0306abc7,"installing, maintaining and repairing electrical, electronic and precision equipment"
+http://data.europa.eu/esco/skill/a7065828-10aa-4aba-b7d4-f23a30df5060,"installing and repairing electrical, electronic and precision equipment",http://data.europa.eu/esco/skill/7b942071-f688-4600-8d9f-ad4c0306abc7,"installing, maintaining and repairing electrical, electronic and precision equipment"
+http://data.europa.eu/esco/skill/ec0401f1-f690-46be-934b-f6f5611085f5,"maintaining electrical, electronic and precision equipment",http://data.europa.eu/esco/skill/7b942071-f688-4600-8d9f-ad4c0306abc7,"installing, maintaining and repairing electrical, electronic and precision equipment"
+http://data.europa.eu/esco/skill/8427894f-2622-4b97-9366-72234a5fab50,operating watercraft,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/36c9717b-e53a-4d16-b7df-b6555eff43f8,operating watercraft,http://data.europa.eu/esco/skill/8427894f-2622-4b97-9366-72234a5fab50,operating watercraft
+http://data.europa.eu/esco/skill/cab71b2a-4b65-4e98-a7a9-0b20c39fc248,working with machinery and specialised equipment,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/a4cf0e8a-54f6-4fd5-8650-1c82ea86cfd2,working with machinery and specialised equipment,http://data.europa.eu/esco/skill/cab71b2a-4b65-4e98-a7a9-0b20c39fc248,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/d9b1387a-7cad-4b77-8481-7798a3b41714,operating aircraft,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/44c81158-f789-41ad-a988-e8af0884a443,operating aircraft,http://data.europa.eu/esco/skill/d9b1387a-7cad-4b77-8481-7798a3b41714,operating aircraft
+http://data.europa.eu/esco/skill/da94d48b-5036-48e1-ad96-d85cba6ed29c,operating mobile plant,http://data.europa.eu/esco/skill/9b8bb484-dcba-49af-8ae0-cfe8b6e9ed45,working with machinery and specialised equipment
+http://data.europa.eu/esco/skill/19990cb0-e9d5-41c7-9638-88700b47271e,operating earthmoving equipment,http://data.europa.eu/esco/skill/da94d48b-5036-48e1-ad96-d85cba6ed29c,operating mobile plant
+http://data.europa.eu/esco/skill/64acded2-d944-4f85-a703-cfe9375f706a,operating agricultural or forestry equipment,http://data.europa.eu/esco/skill/da94d48b-5036-48e1-ad96-d85cba6ed29c,operating mobile plant
+http://data.europa.eu/esco/skill/a5524d0d-38e5-4cfc-96c4-46c3c6df3dd1,operating mobile plant,http://data.europa.eu/esco/skill/da94d48b-5036-48e1-ad96-d85cba6ed29c,operating mobile plant
+http://data.europa.eu/esco/skill/a60b664f-bb07-4dd1-8dfa-134a0827f8da,operating lifting or moving equipment,http://data.europa.eu/esco/skill/da94d48b-5036-48e1-ad96-d85cba6ed29c,operating mobile plant
+http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring,http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring
+http://data.europa.eu/esco/skill/2b6e15f5-dfa0-4e7c-9687-5665b07e56a4,protecting privacy and personal data,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/35dc2a23-cdc3-4291-930f-927ba2911949,ensuring compliance with legislation,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/5bcec244-3efe-45ac-8891-0ab4a91e9c48,complying with health and safety procedures,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/802deca0-b880-4d1a-b366-e13b27621baf,complying with operational procedures,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/8064ae65-5d1b-44e1-9aaf-246a4285a9a6,complying with environmental protection laws and standards,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/e67fd42d-25f1-4124-b0be-3b1e3bfdd70c,verifying identities and documentation,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/e9eb9c23-c1f4-4ce9-83c9-2f6a211cc536,maintaining and enforcing physical security,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/fe317a4c-e4e0-45ee-8b0d-204a68014f9e,protecting and enforcing,http://data.europa.eu/esco/skill/048812ba-45ff-4801-b04f-b20c03432809,protecting and enforcing
+http://data.europa.eu/esco/skill/2486154b-e3fd-4938-8316-029f62afdcb9,assisting and caring,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring
+http://data.europa.eu/esco/skill/b84813aa-6c44-4d58-a240-556c2060fb4e,assisting and caring,http://data.europa.eu/esco/skill/2486154b-e3fd-4938-8316-029f62afdcb9,assisting and caring
+http://data.europa.eu/esco/skill/6107b01a-3dac-4a03-ac9c-1044e4af0307,counselling,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring
+http://data.europa.eu/esco/skill/0ac31705-79ff-4409-a818-c9d0a6388e84,counselling,http://data.europa.eu/esco/skill/6107b01a-3dac-4a03-ac9c-1044e4af0307,counselling
+http://data.europa.eu/esco/skill/29fbde52-e525-4653-96d0-acd59ccb28d8,assisting people to access services,http://data.europa.eu/esco/skill/6107b01a-3dac-4a03-ac9c-1044e4af0307,counselling
+http://data.europa.eu/esco/skill/d6a8a2a4-4e21-4ea6-b267-b5c63e687cfd,"counselling on personal, family or social issues",http://data.europa.eu/esco/skill/6107b01a-3dac-4a03-ac9c-1044e4af0307,counselling
+http://data.europa.eu/esco/skill/f9db77be-eb63-4937-a0d0-b581733e7d2a,providing support to resolve problems,http://data.europa.eu/esco/skill/6107b01a-3dac-4a03-ac9c-1044e4af0307,counselling
+http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring
+http://data.europa.eu/esco/skill/0a400212-8693-4b1f-b0ca-d1f82c321916,providing health care or medical treatments,http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments
+http://data.europa.eu/esco/skill/3926ec7d-64cd-4410-8283-493a1afdd57b,providing physical therapies,http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments
+http://data.europa.eu/esco/skill/4bbdc5eb-b710-4b76-816d-04926f7ac4a1,providing psychological and occupational therapies,http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments
+http://data.europa.eu/esco/skill/50e42de7-4a5c-4f94-b160-765f547d840c,fitting assistive devices,http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments
+http://data.europa.eu/esco/skill/73e602a0-f80f-4f56-8e21-3db4fd08709d,"providing medical, dental and nursing care",http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments
+http://data.europa.eu/esco/skill/b88bddd4-210e-405f-bbdf-729bb66605a0,"prescribing and ordering medical tests, treatments or devices",http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments
+http://data.europa.eu/esco/skill/e001ce62-78e7-4821-a7df-a08457c295ab,performing surgical procedures,http://data.europa.eu/esco/skill/7a163630-7536-4748-a259-aa820d3be44b,providing health care or medical treatments
+http://data.europa.eu/esco/skill/b85711bc-32d6-42af-ae0f-e2e566d0dfca,preparing and serving food and drinks,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring
+http://data.europa.eu/esco/skill/1bb32451-7ca4-4fa2-a2c0-2083c426d76c,serving food and drinks,http://data.europa.eu/esco/skill/b85711bc-32d6-42af-ae0f-e2e566d0dfca,preparing and serving food and drinks
+http://data.europa.eu/esco/skill/89f8435a-ebc1-42b6-bf5c-496999e99776,preparing food and drinks,http://data.europa.eu/esco/skill/b85711bc-32d6-42af-ae0f-e2e566d0dfca,preparing and serving food and drinks
+http://data.europa.eu/esco/skill/b593afe4-4179-4a83-9f05-21c8d32d8113,preparing and serving food and drinks,http://data.europa.eu/esco/skill/b85711bc-32d6-42af-ae0f-e2e566d0dfca,preparing and serving food and drinks
+http://data.europa.eu/esco/skill/e1746275-6d4e-4b02-b526-eeebf3052b6d,providing information and support to the public and clients,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring
+http://data.europa.eu/esco/skill/00d5d1d2-c521-4c58-9df5-2939c0ce9adb,accompanying and welcoming people,http://data.europa.eu/esco/skill/e1746275-6d4e-4b02-b526-eeebf3052b6d,providing information and support to the public and clients
+http://data.europa.eu/esco/skill/119a2f5c-3c3e-4b0d-9813-06a553c8860c,providing general assistance to people,http://data.europa.eu/esco/skill/e1746275-6d4e-4b02-b526-eeebf3052b6d,providing information and support to the public and clients
+http://data.europa.eu/esco/skill/7de7e3f6-d222-4f08-b3f0-e2deff7ef798,providing information and support to the public and clients,http://data.europa.eu/esco/skill/e1746275-6d4e-4b02-b526-eeebf3052b6d,providing information and support to the public and clients
+http://data.europa.eu/esco/skill/d54970ba-d9f2-41ec-a852-bbd1e5796823,providing information to the public and clients,http://data.europa.eu/esco/skill/e1746275-6d4e-4b02-b526-eeebf3052b6d,providing information and support to the public and clients
+http://data.europa.eu/esco/skill/e7a48651-3f68-4762-bf93-57cc1af47016,providing general personal care,http://data.europa.eu/esco/skill/c73521be-c039-4e22-b037-3b01b3f6f9d9,assisting and caring
+http://data.europa.eu/esco/skill/5f92ff3e-288b-44aa-864d-5ebb1adb7925,styling hair and providing beauty treatments,http://data.europa.eu/esco/skill/e7a48651-3f68-4762-bf93-57cc1af47016,providing general personal care
+http://data.europa.eu/esco/skill/77ee8fad-188f-44cf-88ba-4e495a52d604,assisting with personal needs,http://data.europa.eu/esco/skill/e7a48651-3f68-4762-bf93-57cc1af47016,providing general personal care
+http://data.europa.eu/esco/skill/8826b057-0e80-4e3d-9efc-1e179d597f40,assisting people with mobility,http://data.europa.eu/esco/skill/e7a48651-3f68-4762-bf93-57cc1af47016,providing general personal care
+http://data.europa.eu/esco/skill/969845ce-6895-44a8-a3d2-b8c2d8b5de21,caring for children,http://data.europa.eu/esco/skill/e7a48651-3f68-4762-bf93-57cc1af47016,providing general personal care
+http://data.europa.eu/esco/skill/fbb861f7-2386-4d17-84f7-6e340a8e6cd9,providing personal care,http://data.europa.eu/esco/skill/e7a48651-3f68-4762-bf93-57cc1af47016,providing general personal care
+http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity",http://data.europa.eu/esco/skill/335228d2-297d-4e0e-a6ee-bc6a8dc110d9,skills
+http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,designing systems and products,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/32c854c1-6f1f-4f1c-8e4c-368a68a10db3,developing recipes or menus,http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,designing systems and products
+http://data.europa.eu/esco/skill/39fa260c-4f85-48e3-83ce-e292e696c233,designing electrical or electronic systems or equipment,http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,designing systems and products
+http://data.europa.eu/esco/skill/883eab8c-d8a6-4e8b-9b11-7d9001e172ab,designing systems and products,http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,designing systems and products
+http://data.europa.eu/esco/skill/b2c688b0-9106-466d-8b88-eafdfe608e7d,designing structures or facilities,http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,designing systems and products
+http://data.europa.eu/esco/skill/b590d4e5-7c62-4b4a-abc2-c270b482e0ce,designing ict systems or applications,http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,designing systems and products
+http://data.europa.eu/esco/skill/c34b06c4-d164-4e49-a784-89d47de42ec2,"designing industrial materials, systems or products",http://data.europa.eu/esco/skill/0a295163-3e17-47ad-99ac-2b507ce30adb,designing systems and products
+http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/062a9fde-cd91-44f9-9a2f-9e2bc3b281fd,advising on environmental issues,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/08104c27-d4b2-4d40-ae97-dde65e71712f,advising on workplace health and safety issues,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/103af23e-d56c-47ab-b991-55c94dcdef50,advising and consulting,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/34691a8a-ec8e-4eaa-b6e7-f4dbf144c644,providing financial advice,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/62afcfdd-a2a6-4143-bafb-59c77e15a01c,advising on products and services,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/8c298a9b-e9ea-4396-897d-9aba982df6a0,advising on educational or vocational matters,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/b036eb5c-6a48-45b9-b2c6-f42f9e336204,advising on business or operational matters,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/c75655c3-ed29-441e-b403-4dd65bc891a5,providing medical advice,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/eb6cc4ba-4bb8-4348-9a3b-dc419558f66a,advising on design or use of technologies,http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/efbb3d3b-a41c-4e0a-90a8-8e611eb1db9f,"advising on legal, regulatory or procedural matters",http://data.europa.eu/esco/skill/24ad2ffb-dece-4704-8155-63ea9428d038,advising and consulting
+http://data.europa.eu/esco/skill/2f661409-3e56-46ab-95d7-6ec7786fc1c0,writing and composing,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/1072f444-8a7d-41c1-aa6f-d536f20d94bf,artistic and creative writing,http://data.europa.eu/esco/skill/2f661409-3e56-46ab-95d7-6ec7786fc1c0,writing and composing
+http://data.europa.eu/esco/skill/6e62e776-fbfa-486c-a6df-58cd239c86fe,technical or academic writing,http://data.europa.eu/esco/skill/2f661409-3e56-46ab-95d7-6ec7786fc1c0,writing and composing
+http://data.europa.eu/esco/skill/afe3d82e-4a40-4aa4-a4e9-a6097c4a391e,writing and composing,http://data.europa.eu/esco/skill/2f661409-3e56-46ab-95d7-6ec7786fc1c0,writing and composing
+http://data.europa.eu/esco/skill/d12a1be6-d916-436d-8274-ad97b5f24415,composing music,http://data.europa.eu/esco/skill/2f661409-3e56-46ab-95d7-6ec7786fc1c0,writing and composing
+http://data.europa.eu/esco/skill/323b3684-86ec-40fa-81b4-bc52694ef168,negotiating,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/0d80a782-99ff-4f49-abbe-c72524c6f390,negotiating and managing contracts and agreements,http://data.europa.eu/esco/skill/323b3684-86ec-40fa-81b4-bc52694ef168,negotiating
+http://data.europa.eu/esco/skill/0f804e14-001d-4ec0-b3f7-eb6a23ad43cb,negotiating,http://data.europa.eu/esco/skill/323b3684-86ec-40fa-81b4-bc52694ef168,negotiating
+http://data.europa.eu/esco/skill/81f29457-6d0d-4f46-9e0a-7295c7c6f090,responding to complaints,http://data.europa.eu/esco/skill/323b3684-86ec-40fa-81b4-bc52694ef168,negotiating
+http://data.europa.eu/esco/skill/9c17f73f-345c-4c55-8b59-47b445941b7b,mediating and resolving disputes,http://data.europa.eu/esco/skill/323b3684-86ec-40fa-81b4-bc52694ef168,negotiating
+http://data.europa.eu/esco/skill/3f641516-9846-4a7f-a7f4-e1274eef6688,presenting information,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/8f9f8b20-ff26-4392-b04f-695dcde5b90a,presenting research or technical information,http://data.europa.eu/esco/skill/3f641516-9846-4a7f-a7f4-e1274eef6688,presenting information
+http://data.europa.eu/esco/skill/ad326fa7-f2e9-4421-8426-bc0c2e167143,presenting information in legal proceedings,http://data.europa.eu/esco/skill/3f641516-9846-4a7f-a7f4-e1274eef6688,presenting information
+http://data.europa.eu/esco/skill/cdb2aecd-9dca-48fd-8d56-f0aace3ab5a9,presenting general information,http://data.europa.eu/esco/skill/3f641516-9846-4a7f-a7f4-e1274eef6688,presenting information
+http://data.europa.eu/esco/skill/de884168-32e7-4500-a227-3f0966f962b6,presenting information,http://data.europa.eu/esco/skill/3f641516-9846-4a7f-a7f4-e1274eef6688,presenting information
+http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/173fbafb-d2e0-4b89-be1c-548b1cc47160,assisting and supporting co-workers,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others
+http://data.europa.eu/esco/skill/23cfb269-eec1-4011-8e57-c86203ce9fd7,giving feedback,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others
+http://data.europa.eu/esco/skill/58bd927f-e4cc-4b61-a679-cb91b3f8075a,following instructions and procedures,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others
+http://data.europa.eu/esco/skill/8369011d-de43-4800-bcce-be12e19828a5,accepting feedback,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others
+http://data.europa.eu/esco/skill/91b0b918-942e-4661-b88c-70b9396529e5,working with others,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others
+http://data.europa.eu/esco/skill/9a540c0f-81c0-4687-a14b-e9196d9af6c0,giving instructions,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others
+http://data.europa.eu/esco/skill/e4da156d-a6c4-4b29-935b-eff9c9553cf1,working in teams,http://data.europa.eu/esco/skill/548c3fbe-9eb1-4035-bc54-027fd5bc5315,working with others
+http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,teaching and training,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/335be43a-3267-400e-b5cb-c9e234dc7544,teaching academic or vocational subjects,http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,teaching and training
+http://data.europa.eu/esco/skill/3374fb57-056f-49e0-9fc5-000465e13794,teaching safety procedures,http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,teaching and training
+http://data.europa.eu/esco/skill/6c4fa8c8-e9e1-49b5-897f-6b61fe649488,training on operational procedures,http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,teaching and training
+http://data.europa.eu/esco/skill/caede8f1-6658-4d78-9eb4-2ad2c7ebf09b,teaching and training,http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,teaching and training
+http://data.europa.eu/esco/skill/e2bdf081-333a-414f-b8ac-93c76290f167,coaching and mentoring,http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,teaching and training
+http://data.europa.eu/esco/skill/ee2576c0-1af5-44b5-8c0c-2002541d1ccc,training on health or medical topics,http://data.europa.eu/esco/skill/5770f630-9b25-49f3-9d37-e93ec1799749,teaching and training
+http://data.europa.eu/esco/skill/6889a21c-837b-49a2-be61-bb6010ab63f4,obtaining information verbally,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/07f47dea-587c-40c0-990a-6c092cc3e6a4,interviewing,http://data.europa.eu/esco/skill/6889a21c-837b-49a2-be61-bb6010ab63f4,obtaining information verbally
+http://data.europa.eu/esco/skill/31397e38-43b9-43ba-943f-192b834e6b54,obtaining information verbally,http://data.europa.eu/esco/skill/6889a21c-837b-49a2-be61-bb6010ab63f4,obtaining information verbally
+http://data.europa.eu/esco/skill/d46193e0-be7d-4a90-91cc-4caba78e19d0,engaging with others to identify needs,http://data.europa.eu/esco/skill/6889a21c-837b-49a2-be61-bb6010ab63f4,obtaining information verbally
+http://data.europa.eu/esco/skill/d7d2a468-587b-4a03-a305-e0a399ba69e6,listening and asking questions,http://data.europa.eu/esco/skill/6889a21c-837b-49a2-be61-bb6010ab63f4,obtaining information verbally
+http://data.europa.eu/esco/skill/85b379e7-e0b7-48b8-baa7-631f50a7cdd5,"communication, collaboration and creativity",http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/ab877a24-335d-4676-b366-c5c06651481a,"communication, collaboration and creativity",http://data.europa.eu/esco/skill/85b379e7-e0b7-48b8-baa7-631f50a7cdd5,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/8bbdf1f1-e943-45fc-af2f-1446cbd88245,using more than one language,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/03961960-e729-4768-ab0a-49886132f17a,using foreign languages,http://data.europa.eu/esco/skill/8bbdf1f1-e943-45fc-af2f-1446cbd88245,using more than one language
+http://data.europa.eu/esco/skill/0c92c33c-2859-4705-87ae-4fdd71d0f8f6,using more than one language,http://data.europa.eu/esco/skill/8bbdf1f1-e943-45fc-af2f-1446cbd88245,using more than one language
+http://data.europa.eu/esco/skill/64aeee4d-3791-4448-8ed8-9b49ad04f2fb,translating and interpreting,http://data.europa.eu/esco/skill/8bbdf1f1-e943-45fc-af2f-1446cbd88245,using more than one language
+http://data.europa.eu/esco/skill/ac88053e-c9b5-43cf-ace1-f506bcfdc8cb,performing and entertaining,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/395e42b8-f637-4e7e-96d8-9c1976c05d92,performing artistic or cultural activities,http://data.europa.eu/esco/skill/ac88053e-c9b5-43cf-ace1-f506bcfdc8cb,performing and entertaining
+http://data.europa.eu/esco/skill/3bf93195-5239-4f73-94a6-349be598d462,performing and entertaining,http://data.europa.eu/esco/skill/ac88053e-c9b5-43cf-ace1-f506bcfdc8cb,performing and entertaining
+http://data.europa.eu/esco/skill/4781b6b1-07bc-44be-8c2d-de0fa5db4250,conducting gaming activities,http://data.europa.eu/esco/skill/ac88053e-c9b5-43cf-ace1-f506bcfdc8cb,performing and entertaining
+http://data.europa.eu/esco/skill/f4346da3-f6b2-4389-8a67-7c443b7e1609,practising sports,http://data.europa.eu/esco/skill/ac88053e-c9b5-43cf-ace1-f506bcfdc8cb,performing and entertaining
+http://data.europa.eu/esco/skill/b76cd1e5-d5e7-464a-b7bb-4164d3616452,liaising and networking,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/0a4c5823-8b09-4e6b-95b4-8036ef3b9c4c,advocating for individual or community needs,http://data.europa.eu/esco/skill/b76cd1e5-d5e7-464a-b7bb-4164d3616452,liaising and networking
+http://data.europa.eu/esco/skill/848c0306-8cbe-4693-a275-d99807c0173c,liaising and networking,http://data.europa.eu/esco/skill/b76cd1e5-d5e7-464a-b7bb-4164d3616452,liaising and networking
+http://data.europa.eu/esco/skill/8a3b45dc-8299-4b67-99db-6542daf79ac3,developing professional relationships or networks,http://data.europa.eu/esco/skill/b76cd1e5-d5e7-464a-b7bb-4164d3616452,liaising and networking
+http://data.europa.eu/esco/skill/a19c5139-1250-4a60-9c31-a3243cca06cc,communicating with colleagues and clients,http://data.europa.eu/esco/skill/b76cd1e5-d5e7-464a-b7bb-4164d3616452,liaising and networking
+http://data.europa.eu/esco/skill/af84405b-896d-4ed3-9462-077ea9a2a188,collaborating and liaising,http://data.europa.eu/esco/skill/b76cd1e5-d5e7-464a-b7bb-4164d3616452,liaising and networking
+http://data.europa.eu/esco/skill/b99283cd-b908-4100-baa5-112692ac22b8,"promoting, selling and purchasing",http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/663e753c-2fc4-4bf6-9a06-a6ab2d705238,purchasing goods or services,http://data.europa.eu/esco/skill/b99283cd-b908-4100-baa5-112692ac22b8,"promoting, selling and purchasing"
+http://data.europa.eu/esco/skill/e06f2d35-a160-46c2-89f1-9cae9c93c8b8,selling products or services,http://data.europa.eu/esco/skill/b99283cd-b908-4100-baa5-112692ac22b8,"promoting, selling and purchasing"
+http://data.europa.eu/esco/skill/efb60300-0d55-4b2c-8038-8409587a4727,"promoting products, services, or programs",http://data.europa.eu/esco/skill/b99283cd-b908-4100-baa5-112692ac22b8,"promoting, selling and purchasing"
+http://data.europa.eu/esco/skill/fb01d224-882a-4346-99e2-bfd56f52d09c,"promoting, selling and purchasing",http://data.europa.eu/esco/skill/b99283cd-b908-4100-baa5-112692ac22b8,"promoting, selling and purchasing"
+http://data.europa.eu/esco/skill/be7443ff-0747-43b8-8720-8e87fd34e692,solving problems,http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/4feed491-dc09-4218-814a-0146e13ef4fe,solving problems,http://data.europa.eu/esco/skill/be7443ff-0747-43b8-8720-8e87fd34e692,solving problems
+http://data.europa.eu/esco/skill/a6c3bda0-c759-495e-b2c5-062b3abe2097,implementing new procedures or processes,http://data.europa.eu/esco/skill/be7443ff-0747-43b8-8720-8e87fd34e692,solving problems
+http://data.europa.eu/esco/skill/aca5081a-ceb0-4028-9cc5-1daafd4f86f9,developing solutions,http://data.europa.eu/esco/skill/be7443ff-0747-43b8-8720-8e87fd34e692,solving problems
+http://data.europa.eu/esco/skill/c85f95ae-34fb-487b-b3d5-10803eee619d,"creating artistic, visual or instructive materials",http://data.europa.eu/esco/skill/dc06de9f-dd3a-4f28-b58f-b01b5ae72ab8,"communication, collaboration and creativity"
+http://data.europa.eu/esco/skill/775be776-b6ce-4322-a96f-11b2df84ce07,"creating artistic, visual or instructive materials",http://data.europa.eu/esco/skill/c85f95ae-34fb-487b-b3d5-10803eee619d,"creating artistic, visual or instructive materials"
+http://data.europa.eu/esco/skill/a556a3db-cd48-42a5-825c-f95f6f5ccbfe,creating visual displays and decorations,http://data.europa.eu/esco/skill/c85f95ae-34fb-487b-b3d5-10803eee619d,"creating artistic, visual or instructive materials"
+http://data.europa.eu/esco/skill/ab99d9a7-62eb-407b-92f2-bf7992a82004,creating artistic designs or performances,http://data.europa.eu/esco/skill/c85f95ae-34fb-487b-b3d5-10803eee619d,"creating artistic, visual or instructive materials"
+http://data.europa.eu/esco/skill/d1815c8a-7755-4fe3-bacf-68bb0b6a0b55,developing instructive or promotional materials,http://data.europa.eu/esco/skill/c85f95ae-34fb-487b-b3d5-10803eee619d,"creating artistic, visual or instructive materials"
+http://data.europa.eu/esco/skill/021a23e1-907e-4627-b05a-555f889cbb65,self-management skills and competences,http://data.europa.eu/esco/skill/04a13491-b58c-4d33-8b59-8fad0d55fe9e,transversal skills and competences
+http://data.europa.eu/esco/skill/14c41899-0224-4cbc-bd8c-e946ada2da87,working efficiently,http://data.europa.eu/esco/skill/021a23e1-907e-4627-b05a-555f889cbb65,self-management skills and competences
+http://data.europa.eu/esco/skill/2b2c3254-7f6c-47e2-84f1-aece946fbfae,maintaining a positive attitude,http://data.europa.eu/esco/skill/021a23e1-907e-4627-b05a-555f889cbb65,self-management skills and competences
+http://data.europa.eu/esco/skill/91860993-1a8b-4473-91f3-600aa1924bd0,taking a proactive approach,http://data.europa.eu/esco/skill/021a23e1-907e-4627-b05a-555f889cbb65,self-management skills and competences
+http://data.europa.eu/esco/skill/f5c9eef3-0495-4747-9519-d71a58d252bd,demonstrating willingness to learn,http://data.europa.eu/esco/skill/021a23e1-907e-4627-b05a-555f889cbb65,self-management skills and competences
+http://data.europa.eu/esco/skill/12022223-8c30-418a-8f83-658396c9fec2,physical and manual skills and competences,http://data.europa.eu/esco/skill/04a13491-b58c-4d33-8b59-8fad0d55fe9e,transversal skills and competences
+http://data.europa.eu/esco/skill/ccb6db6a-8538-431c-b740-5f241bdb71cf,manipulating and controlling objects and equipment,http://data.europa.eu/esco/skill/12022223-8c30-418a-8f83-658396c9fec2,physical and manual skills and competences
+http://data.europa.eu/esco/skill/e52389a2-1a05-45b0-8db3-4bda0f0c0b48,responding to physical circumstances,http://data.europa.eu/esco/skill/12022223-8c30-418a-8f83-658396c9fec2,physical and manual skills and competences
+http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,life skills and competences,http://data.europa.eu/esco/skill/04a13491-b58c-4d33-8b59-8fad0d55fe9e,transversal skills and competences
+http://data.europa.eu/esco/skill/3d54fec5-d9cb-45a0-bf8d-ffaf3790a5bb,applying health-related skills and competences,http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,life skills and competences
+http://data.europa.eu/esco/skill/44ff6716-7d71-4a16-821b-61d10e9e290d,applying general knowledge,http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,life skills and competences
+http://data.europa.eu/esco/skill/6115ff80-3d84-4e87-8e2b-6ede7ee004b4,applying cultural skills and competences,http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,life skills and competences
+http://data.europa.eu/esco/skill/6c6957bf-cf1f-4483-9c7e-1655f251b01a,applying entrepreneurial and financial skills and competences,http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,life skills and competences
+http://data.europa.eu/esco/skill/80cf002a-6586-4db7-9c9a-88325a9a5e1b,applying environmental skills and competences,http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,life skills and competences
+http://data.europa.eu/esco/skill/d6e97b91-b75d-45f5-8566-667798957b0f,applying civic skills and competences,http://data.europa.eu/esco/skill/4ef78abc-e983-4cc7-84a1-52532a0159dc,life skills and competences
+http://data.europa.eu/esco/skill/552c4f35-a2d1-49c2-8fda-afe26695c44a,social and communication skills and competences,http://data.europa.eu/esco/skill/04a13491-b58c-4d33-8b59-8fad0d55fe9e,transversal skills and competences
+http://data.europa.eu/esco/skill/036afa6e-cdde-4b38-a53a-8e7910a840e1,collaborating in teams and networks,http://data.europa.eu/esco/skill/552c4f35-a2d1-49c2-8fda-afe26695c44a,social and communication skills and competences
+http://data.europa.eu/esco/skill/6f142deb-03a9-4cd7-94ce-e0f023ae2169,communicating,http://data.europa.eu/esco/skill/552c4f35-a2d1-49c2-8fda-afe26695c44a,social and communication skills and competences
+http://data.europa.eu/esco/skill/82463bb1-85d1-4e99-a4ce-08508fc3b2a3,supporting others,http://data.europa.eu/esco/skill/552c4f35-a2d1-49c2-8fda-afe26695c44a,social and communication skills and competences
+http://data.europa.eu/esco/skill/925af2b5-2f4d-4cce-92cc-79e1ff887c7d,following ethical code of conduct,http://data.europa.eu/esco/skill/552c4f35-a2d1-49c2-8fda-afe26695c44a,social and communication skills and competences
+http://data.europa.eu/esco/skill/fe5eabaa-63f6-4c44-b405-fc3ded8d56cb,leading others,http://data.europa.eu/esco/skill/552c4f35-a2d1-49c2-8fda-afe26695c44a,social and communication skills and competences
+http://data.europa.eu/esco/skill/8267ecb5-c976-4b6a-809b-4ceecb954967,thinking skills and competences,http://data.europa.eu/esco/skill/04a13491-b58c-4d33-8b59-8fad0d55fe9e,transversal skills and competences
+http://data.europa.eu/esco/skill/13d301d0-98cb-414f-a8f9-a3f059228133,dealing with problems,http://data.europa.eu/esco/skill/8267ecb5-c976-4b6a-809b-4ceecb954967,thinking skills and competences
+http://data.europa.eu/esco/skill/66fdc34c-2326-4baa-b8ff-7a1d1015fe3a,planning and organising,http://data.europa.eu/esco/skill/8267ecb5-c976-4b6a-809b-4ceecb954967,thinking skills and competences
+http://data.europa.eu/esco/skill/e84d080a-ff6d-41a7-b7b9-133e97c7bf00,thinking creatively and innovatively,http://data.europa.eu/esco/skill/8267ecb5-c976-4b6a-809b-4ceecb954967,thinking skills and competences
+http://data.europa.eu/esco/skill/fff1d675-c36a-4c12-9cd4-407f21ccd06a,"processing information, ideas and concepts",http://data.europa.eu/esco/skill/8267ecb5-c976-4b6a-809b-4ceecb954967,thinking skills and competences
+http://data.europa.eu/esco/skill/b94686e3-cce5-47a2-a8d8-402a0d0ed44e,core skills and competences,http://data.europa.eu/esco/skill/04a13491-b58c-4d33-8b59-8fad0d55fe9e,transversal skills and competences
+http://data.europa.eu/esco/skill/3399045f-8078-4066-8b46-475b49b260ab,working with digital devices and applications,http://data.europa.eu/esco/skill/b94686e3-cce5-47a2-a8d8-402a0d0ed44e,core skills and competences
+http://data.europa.eu/esco/skill/9adca63b-9c75-4804-8dab-d62872540a10,mastering languages,http://data.europa.eu/esco/skill/b94686e3-cce5-47a2-a8d8-402a0d0ed44e,core skills and competences
+http://data.europa.eu/esco/skill/edc72cfe-78a8-4531-b00f-92992a0bb8cb,working with numbers and measures,http://data.europa.eu/esco/skill/b94686e3-cce5-47a2-a8d8-402a0d0ed44e,core skills and competences
+http://data.europa.eu/esco/isced-f/00,generic programmes and qualifications,http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/000,generic programmes and qualifications not further defined,http://data.europa.eu/esco/isced-f/00,generic programmes and qualifications
+http://data.europa.eu/esco/isced-f/0000,generic programmes and qualifications not further defined,http://data.europa.eu/esco/isced-f/000,generic programmes and qualifications not further defined
+http://data.europa.eu/esco/isced-f/001,basic programmes and qualifications,http://data.europa.eu/esco/isced-f/00,generic programmes and qualifications
+http://data.europa.eu/esco/isced-f/0011,basic programmes and qualifications,http://data.europa.eu/esco/isced-f/001,basic programmes and qualifications
+http://data.europa.eu/esco/isced-f/002,literacy and numeracy,http://data.europa.eu/esco/isced-f/00,generic programmes and qualifications
+http://data.europa.eu/esco/isced-f/0021,literacy and numeracy,http://data.europa.eu/esco/isced-f/002,literacy and numeracy
+http://data.europa.eu/esco/isced-f/003,personal skills and development,http://data.europa.eu/esco/isced-f/00,generic programmes and qualifications
+http://data.europa.eu/esco/isced-f/0031,personal skills and development,http://data.europa.eu/esco/isced-f/003,personal skills and development
+http://data.europa.eu/esco/isced-f/009,generic programmes and qualifications not elsewhere classified,http://data.europa.eu/esco/isced-f/00,generic programmes and qualifications
+http://data.europa.eu/esco/isced-f/0099,generic programmes and qualifications not elsewhere classified,http://data.europa.eu/esco/isced-f/009,generic programmes and qualifications not elsewhere classified
+http://data.europa.eu/esco/isced-f/01,education,http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/011,education,http://data.europa.eu/esco/isced-f/01,education
+http://data.europa.eu/esco/isced-f/0110,education not further defined,http://data.europa.eu/esco/isced-f/011,education
+http://data.europa.eu/esco/isced-f/0111,education science,http://data.europa.eu/esco/isced-f/011,education
+http://data.europa.eu/esco/isced-f/0112,training for pre-school teachers,http://data.europa.eu/esco/isced-f/011,education
+http://data.europa.eu/esco/isced-f/0113,teacher training without subject specialisation,http://data.europa.eu/esco/isced-f/011,education
+http://data.europa.eu/esco/isced-f/0114,teacher training with subject specialisation,http://data.europa.eu/esco/isced-f/011,education
+http://data.europa.eu/esco/isced-f/0119,education not elsewhere classified,http://data.europa.eu/esco/isced-f/011,education
+http://data.europa.eu/esco/isced-f/018,inter-disciplinary programmes and qualifications involving education,http://data.europa.eu/esco/isced-f/01,education
+http://data.europa.eu/esco/isced-f/0188,inter-disciplinary programmes and qualifications involving education,http://data.europa.eu/esco/isced-f/018,inter-disciplinary programmes and qualifications involving education
+http://data.europa.eu/esco/isced-f/02,arts and humanities,http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/020,arts and humanities not further defined,http://data.europa.eu/esco/isced-f/02,arts and humanities
+http://data.europa.eu/esco/isced-f/0200,arts and humanities not further defined,http://data.europa.eu/esco/isced-f/020,arts and humanities not further defined
+http://data.europa.eu/esco/isced-f/021,arts,http://data.europa.eu/esco/isced-f/02,arts and humanities
+http://data.europa.eu/esco/isced-f/0210,arts not further defined,http://data.europa.eu/esco/isced-f/021,arts
+http://data.europa.eu/esco/isced-f/0211,audio-visual techniques and media production,http://data.europa.eu/esco/isced-f/021,arts
+http://data.europa.eu/esco/isced-f/0212,"fashion, interior and industrial design",http://data.europa.eu/esco/isced-f/021,arts
+http://data.europa.eu/esco/isced-f/0213,fine arts,http://data.europa.eu/esco/isced-f/021,arts
+http://data.europa.eu/esco/isced-f/0214,handicrafts,http://data.europa.eu/esco/isced-f/021,arts
+http://data.europa.eu/esco/isced-f/0215,music and performing arts,http://data.europa.eu/esco/isced-f/021,arts
+http://data.europa.eu/esco/isced-f/0219,arts not elsewhere classified,http://data.europa.eu/esco/isced-f/021,arts
+http://data.europa.eu/esco/isced-f/022,humanities (except languages),http://data.europa.eu/esco/isced-f/02,arts and humanities
+http://data.europa.eu/esco/isced-f/0220,humanities (except languages) not further defined,http://data.europa.eu/esco/isced-f/022,humanities (except languages)
+http://data.europa.eu/esco/isced-f/0221,religion and theology,http://data.europa.eu/esco/isced-f/022,humanities (except languages)
+http://data.europa.eu/esco/isced-f/0222,history and archaeology,http://data.europa.eu/esco/isced-f/022,humanities (except languages)
+http://data.europa.eu/esco/isced-f/0223,philosophy and ethics,http://data.europa.eu/esco/isced-f/022,humanities (except languages)
+http://data.europa.eu/esco/isced-f/0228,inter-disciplinary programmes and qualifications involving humanities,http://data.europa.eu/esco/isced-f/022,humanities (except languages)
+http://data.europa.eu/esco/isced-f/0229,humanities (except languages) not elsewhere classified,http://data.europa.eu/esco/isced-f/022,humanities (except languages)
+http://data.europa.eu/esco/isced-f/023,languages,http://data.europa.eu/esco/isced-f/02,arts and humanities
+http://data.europa.eu/esco/isced-f/0230,languages not further defined,http://data.europa.eu/esco/isced-f/023,languages
+http://data.europa.eu/esco/isced-f/0231,language acquisition,http://data.europa.eu/esco/isced-f/023,languages
+http://data.europa.eu/esco/isced-f/0232,literature and linguistics,http://data.europa.eu/esco/isced-f/023,languages
+http://data.europa.eu/esco/isced-f/0239,languages not elsewhere classified,http://data.europa.eu/esco/isced-f/023,languages
+http://data.europa.eu/esco/isced-f/028,inter-disciplinary programmes and qualifications involving arts and humanities,http://data.europa.eu/esco/isced-f/02,arts and humanities
+http://data.europa.eu/esco/isced-f/0288,inter-disciplinary programmes and qualifications involving arts and humanities,http://data.europa.eu/esco/isced-f/028,inter-disciplinary programmes and qualifications involving arts and humanities
+http://data.europa.eu/esco/isced-f/029,arts and humanities not elsewhere classified,http://data.europa.eu/esco/isced-f/02,arts and humanities
+http://data.europa.eu/esco/isced-f/0299,arts and humanities not elsewhere classified,http://data.europa.eu/esco/isced-f/029,arts and humanities not elsewhere classified
+http://data.europa.eu/esco/isced-f/03,"social sciences, journalism and information",http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/030,"social sciences, journalism and information not further defined",http://data.europa.eu/esco/isced-f/03,"social sciences, journalism and information"
+http://data.europa.eu/esco/isced-f/0300,"social sciences, journalism and information not further defined",http://data.europa.eu/esco/isced-f/030,"social sciences, journalism and information not further defined"
+http://data.europa.eu/esco/isced-f/031,social and behavioural sciences,http://data.europa.eu/esco/isced-f/03,"social sciences, journalism and information"
+http://data.europa.eu/esco/isced-f/0310,social and behavioural sciences not further defined,http://data.europa.eu/esco/isced-f/031,social and behavioural sciences
+http://data.europa.eu/esco/isced-f/0311,economics,http://data.europa.eu/esco/isced-f/031,social and behavioural sciences
+http://data.europa.eu/esco/isced-f/0312,political sciences and civics,http://data.europa.eu/esco/isced-f/031,social and behavioural sciences
+http://data.europa.eu/esco/isced-f/0313,psychology,http://data.europa.eu/esco/isced-f/031,social and behavioural sciences
+http://data.europa.eu/esco/isced-f/0314,sociology and cultural studies,http://data.europa.eu/esco/isced-f/031,social and behavioural sciences
+http://data.europa.eu/esco/isced-f/0319,social and behavioural sciences not elsewhere classified,http://data.europa.eu/esco/isced-f/031,social and behavioural sciences
+http://data.europa.eu/esco/isced-f/032,journalism and information,http://data.europa.eu/esco/isced-f/03,"social sciences, journalism and information"
+http://data.europa.eu/esco/isced-f/0320,journalism and information not further defined,http://data.europa.eu/esco/isced-f/032,journalism and information
+http://data.europa.eu/esco/isced-f/0321,journalism and reporting,http://data.europa.eu/esco/isced-f/032,journalism and information
+http://data.europa.eu/esco/isced-f/0322,"library, information and archival studies",http://data.europa.eu/esco/isced-f/032,journalism and information
+http://data.europa.eu/esco/isced-f/0329,journalism and information not elsewhere classified,http://data.europa.eu/esco/isced-f/032,journalism and information
+http://data.europa.eu/esco/isced-f/038,"inter-disciplinary programmes and qualifications involving social sciences, journalism and information",http://data.europa.eu/esco/isced-f/03,"social sciences, journalism and information"
+http://data.europa.eu/esco/isced-f/0388,"inter-disciplinary programmes and qualifications involving social sciences, journalism and information",http://data.europa.eu/esco/isced-f/038,"inter-disciplinary programmes and qualifications involving social sciences, journalism and information"
+http://data.europa.eu/esco/isced-f/039,"social sciences, journalism and information not elsewhere classified",http://data.europa.eu/esco/isced-f/03,"social sciences, journalism and information"
+http://data.europa.eu/esco/isced-f/0399,"social sciences, journalism and information not elsewhere classified",http://data.europa.eu/esco/isced-f/039,"social sciences, journalism and information not elsewhere classified"
+http://data.europa.eu/esco/isced-f/04,"business, administration and law",http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/040,"business, administration and law not further defined",http://data.europa.eu/esco/isced-f/04,"business, administration and law"
+http://data.europa.eu/esco/isced-f/0400,"business, administration and law not further defined",http://data.europa.eu/esco/isced-f/040,"business, administration and law not further defined"
+http://data.europa.eu/esco/isced-f/041,business and administration,http://data.europa.eu/esco/isced-f/04,"business, administration and law"
+http://data.europa.eu/esco/isced-f/0410,business and administration not further defined,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0411,accounting and taxation,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0412,"finance, banking and insurance",http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0413,management and administration,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0414,marketing and advertising,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0415,secretarial and office work,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0416,wholesale and retail sales,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0417,work skills,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/0419,business and administration not elsewhere classified,http://data.europa.eu/esco/isced-f/041,business and administration
+http://data.europa.eu/esco/isced-f/042,law,http://data.europa.eu/esco/isced-f/04,"business, administration and law"
+http://data.europa.eu/esco/isced-f/0421,law,http://data.europa.eu/esco/isced-f/042,law
+http://data.europa.eu/esco/isced-f/048,"inter-disciplinary programmes and qualifications involving business, administration and law",http://data.europa.eu/esco/isced-f/04,"business, administration and law"
+http://data.europa.eu/esco/isced-f/0488,"inter-disciplinary programmes and qualifications involving business, administration and law",http://data.europa.eu/esco/isced-f/048,"inter-disciplinary programmes and qualifications involving business, administration and law"
+http://data.europa.eu/esco/isced-f/049,"business, administration and law not elsewhere classified",http://data.europa.eu/esco/isced-f/04,"business, administration and law"
+http://data.europa.eu/esco/isced-f/0499,"business, administration and law not elsewhere classified",http://data.europa.eu/esco/isced-f/049,"business, administration and law not elsewhere classified"
+http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics",http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/050,"natural sciences, mathematics and statistics not further defined",http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/0500,"natural sciences, mathematics and statistics not further defined",http://data.europa.eu/esco/isced-f/050,"natural sciences, mathematics and statistics not further defined"
+http://data.europa.eu/esco/isced-f/051,biological and related sciences,http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/0510,biological and related sciences not further defined,http://data.europa.eu/esco/isced-f/051,biological and related sciences
+http://data.europa.eu/esco/isced-f/0511,biology,http://data.europa.eu/esco/isced-f/051,biological and related sciences
+http://data.europa.eu/esco/isced-f/0512,biochemistry,http://data.europa.eu/esco/isced-f/051,biological and related sciences
+http://data.europa.eu/esco/isced-f/0519,biological and related sciences not elsewhere classified,http://data.europa.eu/esco/isced-f/051,biological and related sciences
+http://data.europa.eu/esco/isced-f/052,environment,http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/0520,environment not further defined,http://data.europa.eu/esco/isced-f/052,environment
+http://data.europa.eu/esco/isced-f/0521,environmental sciences,http://data.europa.eu/esco/isced-f/052,environment
+http://data.europa.eu/esco/isced-f/0522,natural environments and wildlife,http://data.europa.eu/esco/isced-f/052,environment
+http://data.europa.eu/esco/isced-f/0529,environment not elsewhere classified,http://data.europa.eu/esco/isced-f/052,environment
+http://data.europa.eu/esco/isced-f/053,physical sciences,http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/0530,physical sciences not further defined,http://data.europa.eu/esco/isced-f/053,physical sciences
+http://data.europa.eu/esco/isced-f/0531,chemistry,http://data.europa.eu/esco/isced-f/053,physical sciences
+http://data.europa.eu/esco/isced-f/0532,earth sciences,http://data.europa.eu/esco/isced-f/053,physical sciences
+http://data.europa.eu/esco/isced-f/0533,physics,http://data.europa.eu/esco/isced-f/053,physical sciences
+http://data.europa.eu/esco/isced-f/0539,physical sciences not elsewhere classified,http://data.europa.eu/esco/isced-f/053,physical sciences
+http://data.europa.eu/esco/isced-f/054,mathematics and statistics,http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/0540,mathematics and statistics not further defined,http://data.europa.eu/esco/isced-f/054,mathematics and statistics
+http://data.europa.eu/esco/isced-f/0541,mathematics,http://data.europa.eu/esco/isced-f/054,mathematics and statistics
+http://data.europa.eu/esco/isced-f/0542,statistics,http://data.europa.eu/esco/isced-f/054,mathematics and statistics
+http://data.europa.eu/esco/isced-f/058,"inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics",http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/0588,"inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics",http://data.europa.eu/esco/isced-f/058,"inter-disciplinary programmes and qualifications involving natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/059,"natural sciences, mathematics and statistics not elsewhere classified",http://data.europa.eu/esco/isced-f/05,"natural sciences, mathematics and statistics"
+http://data.europa.eu/esco/isced-f/0599,"natural sciences, mathematics and statistics not elsewhere classified",http://data.europa.eu/esco/isced-f/059,"natural sciences, mathematics and statistics not elsewhere classified"
+http://data.europa.eu/esco/isced-f/06,information and communication technologies (icts),http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/061,information and communication technologies (icts),http://data.europa.eu/esco/isced-f/06,information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/0610,information and communication technologies (icts) not further defined,http://data.europa.eu/esco/isced-f/061,information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/0611,computer use,http://data.europa.eu/esco/isced-f/061,information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/0612,database and network design and administration,http://data.europa.eu/esco/isced-f/061,information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/0613,software and applications development and analysis,http://data.europa.eu/esco/isced-f/061,information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/0619,information and communication technologies not elsewhere classified,http://data.europa.eu/esco/isced-f/061,information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/068,inter-disciplinary programmes and qualifications involving information and communication technologies (icts),http://data.europa.eu/esco/isced-f/06,information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/0688,inter-disciplinary programmes and qualifications involving information and communication technologies (icts),http://data.europa.eu/esco/isced-f/068,inter-disciplinary programmes and qualifications involving information and communication technologies (icts)
+http://data.europa.eu/esco/isced-f/07,"engineering, manufacturing and construction",http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/070,"engineering, manufacturing and construction not further defined",http://data.europa.eu/esco/isced-f/07,"engineering, manufacturing and construction"
+http://data.europa.eu/esco/isced-f/0700,"engineering, manufacturing and construction not further defined",http://data.europa.eu/esco/isced-f/070,"engineering, manufacturing and construction not further defined"
+http://data.europa.eu/esco/isced-f/071,engineering and engineering trades,http://data.europa.eu/esco/isced-f/07,"engineering, manufacturing and construction"
+http://data.europa.eu/esco/isced-f/0710,engineering and engineering trades not further defined,http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/0711,chemical engineering and processes,http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/0712,environmental protection technology,http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/0713,electricity and energy,http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/0714,electronics and automation,http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/0715,mechanics and metal trades,http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/0716,"motor vehicles, ships and aircraft",http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/0719,engineering and engineering trades not elsewhere classified,http://data.europa.eu/esco/isced-f/071,engineering and engineering trades
+http://data.europa.eu/esco/isced-f/072,manufacturing and processing,http://data.europa.eu/esco/isced-f/07,"engineering, manufacturing and construction"
+http://data.europa.eu/esco/isced-f/0720,manufacturing and processing not further defined,http://data.europa.eu/esco/isced-f/072,manufacturing and processing
+http://data.europa.eu/esco/isced-f/0721,food processing,http://data.europa.eu/esco/isced-f/072,manufacturing and processing
+http://data.europa.eu/esco/isced-f/0722,"materials (glass, paper, plastic and wood)",http://data.europa.eu/esco/isced-f/072,manufacturing and processing
+http://data.europa.eu/esco/isced-f/0723,"textiles (clothes, footwear and leather)",http://data.europa.eu/esco/isced-f/072,manufacturing and processing
+http://data.europa.eu/esco/isced-f/0724,mining and extraction,http://data.europa.eu/esco/isced-f/072,manufacturing and processing
+http://data.europa.eu/esco/isced-f/0729,manufacturing and processing not elsewhere classified,http://data.europa.eu/esco/isced-f/072,manufacturing and processing
+http://data.europa.eu/esco/isced-f/073,architecture and construction,http://data.europa.eu/esco/isced-f/07,"engineering, manufacturing and construction"
+http://data.europa.eu/esco/isced-f/0730,architecture and construction not further defined,http://data.europa.eu/esco/isced-f/073,architecture and construction
+http://data.europa.eu/esco/isced-f/0731,architecture and town planning,http://data.europa.eu/esco/isced-f/073,architecture and construction
+http://data.europa.eu/esco/isced-f/0732,building and civil engineering,http://data.europa.eu/esco/isced-f/073,architecture and construction
+http://data.europa.eu/esco/isced-f/078,"inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction",http://data.europa.eu/esco/isced-f/07,"engineering, manufacturing and construction"
+http://data.europa.eu/esco/isced-f/0788,"inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction",http://data.europa.eu/esco/isced-f/078,"inter-disciplinary programmes and qualifications involving engineering, manufacturing and construction"
+http://data.europa.eu/esco/isced-f/079,"engineering, manufacturing and construction not elsewhere classified",http://data.europa.eu/esco/isced-f/07,"engineering, manufacturing and construction"
+http://data.europa.eu/esco/isced-f/0799,"engineering, manufacturing and construction not elsewhere classified",http://data.europa.eu/esco/isced-f/079,"engineering, manufacturing and construction not elsewhere classified"
+http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary",http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/080,"agriculture, forestry, fisheries and veterinary not further defined",http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/0800,"agriculture, forestry, fisheries and veterinary not further defined",http://data.europa.eu/esco/isced-f/080,"agriculture, forestry, fisheries and veterinary not further defined"
+http://data.europa.eu/esco/isced-f/081,agriculture,http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/0810,agriculture not further defined,http://data.europa.eu/esco/isced-f/081,agriculture
+http://data.europa.eu/esco/isced-f/0811,crop and livestock production,http://data.europa.eu/esco/isced-f/081,agriculture
+http://data.europa.eu/esco/isced-f/0812,horticulture,http://data.europa.eu/esco/isced-f/081,agriculture
+http://data.europa.eu/esco/isced-f/0819,agriculture not elsewhere classified,http://data.europa.eu/esco/isced-f/081,agriculture
+http://data.europa.eu/esco/isced-f/082,forestry,http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/0821,forestry,http://data.europa.eu/esco/isced-f/082,forestry
+http://data.europa.eu/esco/isced-f/083,fisheries,http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/0831,fisheries,http://data.europa.eu/esco/isced-f/083,fisheries
+http://data.europa.eu/esco/isced-f/084,veterinary,http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/0841,veterinary,http://data.europa.eu/esco/isced-f/084,veterinary
+http://data.europa.eu/esco/isced-f/088,"inter-disciplinary programmes and qualifications involving  agriculture, forestry, fisheries and veterinary",http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/0888,"inter-disciplinary programmes and qualifications involving  agriculture, forestry, fisheries and veterinary",http://data.europa.eu/esco/isced-f/088,"inter-disciplinary programmes and qualifications involving  agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/089,"agriculture, forestry, fisheries and veterinary not elsewhere classified",http://data.europa.eu/esco/isced-f/08,"agriculture, forestry, fisheries and veterinary"
+http://data.europa.eu/esco/isced-f/0899,"agriculture, forestry, fisheries and veterinary not elsewhere classified",http://data.europa.eu/esco/isced-f/089,"agriculture, forestry, fisheries and veterinary not elsewhere classified"
+http://data.europa.eu/esco/isced-f/09,health and welfare,http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/090,health and welfare not further defined,http://data.europa.eu/esco/isced-f/09,health and welfare
+http://data.europa.eu/esco/isced-f/0900,health and welfare not further defined,http://data.europa.eu/esco/isced-f/090,health and welfare not further defined
+http://data.europa.eu/esco/isced-f/091,health,http://data.europa.eu/esco/isced-f/09,health and welfare
+http://data.europa.eu/esco/isced-f/0910,health not further defined,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0911,dental studies,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0912,medicine,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0913,nursing and midwifery,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0914,medical diagnostic and treatment technology,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0915,therapy and rehabilitation,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0916,pharmacy,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0917,traditional and complementary medicine and therapy,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/0919,health not elsewhere classified,http://data.europa.eu/esco/isced-f/091,health
+http://data.europa.eu/esco/isced-f/092,welfare,http://data.europa.eu/esco/isced-f/09,health and welfare
+http://data.europa.eu/esco/isced-f/0920,welfare not further defined,http://data.europa.eu/esco/isced-f/092,welfare
+http://data.europa.eu/esco/isced-f/0921,care of the elderly and of disabled adults,http://data.europa.eu/esco/isced-f/092,welfare
+http://data.europa.eu/esco/isced-f/0922,child care and youth services,http://data.europa.eu/esco/isced-f/092,welfare
+http://data.europa.eu/esco/isced-f/0923,social work and counselling,http://data.europa.eu/esco/isced-f/092,welfare
+http://data.europa.eu/esco/isced-f/0929,welfare not elsewhere classified,http://data.europa.eu/esco/isced-f/092,welfare
+http://data.europa.eu/esco/isced-f/098,inter-disciplinary programmes and qualifications involving health and welfare,http://data.europa.eu/esco/isced-f/09,health and welfare
+http://data.europa.eu/esco/isced-f/0988,inter-disciplinary programmes and qualifications involving health and welfare,http://data.europa.eu/esco/isced-f/098,inter-disciplinary programmes and qualifications involving health and welfare
+http://data.europa.eu/esco/isced-f/099,health and welfare not elsewhere classified,http://data.europa.eu/esco/isced-f/09,health and welfare
+http://data.europa.eu/esco/isced-f/0999,health and welfare not elsewhere classified,http://data.europa.eu/esco/isced-f/099,health and welfare not elsewhere classified
+http://data.europa.eu/esco/isced-f/10,services,http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/100,services not further defined,http://data.europa.eu/esco/isced-f/10,services
+http://data.europa.eu/esco/isced-f/1000,services not further defined,http://data.europa.eu/esco/isced-f/100,services not further defined
+http://data.europa.eu/esco/isced-f/101,personal services,http://data.europa.eu/esco/isced-f/10,services
+http://data.europa.eu/esco/isced-f/1010,personal services not further defined,http://data.europa.eu/esco/isced-f/101,personal services
+http://data.europa.eu/esco/isced-f/1011,domestic services,http://data.europa.eu/esco/isced-f/101,personal services
+http://data.europa.eu/esco/isced-f/1012,hair and beauty services,http://data.europa.eu/esco/isced-f/101,personal services
+http://data.europa.eu/esco/isced-f/1013,"hotel, restaurants and catering",http://data.europa.eu/esco/isced-f/101,personal services
+http://data.europa.eu/esco/isced-f/1014,sports,http://data.europa.eu/esco/isced-f/101,personal services
+http://data.europa.eu/esco/isced-f/1015,"travel, tourism and leisure",http://data.europa.eu/esco/isced-f/101,personal services
+http://data.europa.eu/esco/isced-f/1019,personal services not elsewhere classified,http://data.europa.eu/esco/isced-f/101,personal services
+http://data.europa.eu/esco/isced-f/102,hygiene and occupational health services,http://data.europa.eu/esco/isced-f/10,services
+http://data.europa.eu/esco/isced-f/1020,hygiene and occupational health services not further defined,http://data.europa.eu/esco/isced-f/102,hygiene and occupational health services
+http://data.europa.eu/esco/isced-f/1021,community sanitation,http://data.europa.eu/esco/isced-f/102,hygiene and occupational health services
+http://data.europa.eu/esco/isced-f/1022,occupational health and safety,http://data.europa.eu/esco/isced-f/102,hygiene and occupational health services
+http://data.europa.eu/esco/isced-f/1029,hygiene and occupational health services not elsewhere classified,http://data.europa.eu/esco/isced-f/102,hygiene and occupational health services
+http://data.europa.eu/esco/isced-f/103,security services,http://data.europa.eu/esco/isced-f/10,services
+http://data.europa.eu/esco/isced-f/1030,security services not further defined,http://data.europa.eu/esco/isced-f/103,security services
+http://data.europa.eu/esco/isced-f/1031,military and defence,http://data.europa.eu/esco/isced-f/103,security services
+http://data.europa.eu/esco/isced-f/1032,protection of persons and property,http://data.europa.eu/esco/isced-f/103,security services
+http://data.europa.eu/esco/isced-f/1039,security services not elsewhere classified,http://data.europa.eu/esco/isced-f/103,security services
+http://data.europa.eu/esco/isced-f/104,transport services,http://data.europa.eu/esco/isced-f/10,services
+http://data.europa.eu/esco/isced-f/1041,transport services,http://data.europa.eu/esco/isced-f/104,transport services
+http://data.europa.eu/esco/isced-f/108,inter-disciplinary programmes and qualifications involving services,http://data.europa.eu/esco/isced-f/10,services
+http://data.europa.eu/esco/isced-f/1088,inter-disciplinary programmes and qualifications involving services,http://data.europa.eu/esco/isced-f/108,inter-disciplinary programmes and qualifications involving services
+http://data.europa.eu/esco/isced-f/109,services not elsewhere classified,http://data.europa.eu/esco/isced-f/10,services
+http://data.europa.eu/esco/isced-f/1099,services not elsewhere classified,http://data.europa.eu/esco/isced-f/109,services not elsewhere classified
+http://data.europa.eu/esco/isced-f/99,field unknown,http://data.europa.eu/esco/skill/c46fcb45-5c14-4ffa-abed-5a43f104bb22,knowledge
+http://data.europa.eu/esco/isced-f/999,field unknown,http://data.europa.eu/esco/isced-f/99,field unknown
+http://data.europa.eu/esco/isced-f/9999,field unknown,http://data.europa.eu/esco/isced-f/999,field unknown
